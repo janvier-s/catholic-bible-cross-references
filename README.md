@@ -1,6 +1,11 @@
 # Catholic Bible Cross References
 
-Cross references extracted from the Parallel Notes section of a Catholic Bible. Each file maps source passages to related passages elsewhere in Scripture.
+Cross references extracted from two Catholic Bibles. Each file maps source passages to related passages elsewhere in Scripture.
+
+## Sources
+
+- **`/`** — Cross references from the Parallel Notes section (7,392 refs, 67 books)
+- **`/rnjb/`** — Cross references embedded in verse text from the Revised New Jerusalem Bible (2,729 refs, 66 books)
 
 ## Format
 
@@ -10,16 +15,14 @@ Each JSON file is an array of objects:
 [
   { "source": "Gen 1:1", "target": "Jn 1:1" },
   { "source": "Gen 1:26, 27", "target": "Gen 5:1" },
-  { "source": "Gen 1:26, 27", "target": "Mt 19:4" },
-  { "source": "Gen 2:9", "target": "Rev 22:2" },
-  { "source": "Gen 2:9", "target": "Rev 22:14" }
+  { "source": "Gen 1:26, 27", "target": "Mt 19:4" }
 ]
 ```
 
 - **source** — the passage being referenced from
 - **target** — the related passage elsewhere in Scripture
 
-## Books Included
+## Books Included (Parallel Notes)
 
 ### Old Testament
 
@@ -95,7 +98,24 @@ Each JSON file is an array of objects:
 | `jude.json` | Jude | 7 |
 | `revelation.json` | Revelation | 17 |
 
-**Total: 7,392 cross references across 67 books**
+**Total (Parallel Notes): 7,392 cross references across 67 books**
+
+## Books Included (RNJB)
+
+The RNJB extraction includes additional deuterocanonical books:
+
+| File | Book | References |
+|------|------|------------|
+| `tobit.json` | Tobit | 23 |
+| `judith.json` | Judith | 13 |
+| `1_maccabees.json` | 1 Maccabees | 26 |
+| `2_maccabees.json` | 2 Maccabees | 16 |
+| `wisdom.json` | Wisdom | 52 |
+| `sirach.json` | Sirach | 3 |
+| `baruch.json` | Baruch | 16 |
+| `lamentations.json` | Lamentations | 6 |
+
+**Total (RNJB): 2,729 cross references across 66 books**
 
 ## Reference Conventions
 
@@ -103,3 +123,4 @@ Each JSON file is an array of objects:
 - **Multiple verses** are comma-separated: `"Gen 1:26, 27"`
 - **Targets point both directions** — OT links to NT, NT links to OT, and books cross-reference each other
 - **Targets may be chapters** (e.g. `"Gen 5"`) or specific verses (e.g. `"Jn 1:1"`)
+- **RNJB references** include verse suffixes from the text (e.g. `"Mark 10:6a"`, `"Hebrews 4:1a"`)
