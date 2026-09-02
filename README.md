@@ -1,6 +1,6 @@
 # Catholic Bible Cross References
 
-Cross references from the RSV-CE (Revised Standard Version, Catholic Edition) Old Testament, covering Genesis through Jeremiah. Each file maps source passages to related passages elsewhere in Scripture.
+Cross references covering Genesis through Jeremiah. Each file maps source passages to related passages elsewhere in Scripture.
 
 ## Format
 
@@ -57,4 +57,4 @@ Each JSON file is an array of objects:
 
 ## Scope
 
-This covers the Pentateuch, Historical Books, Wisdom Literature, and Major Prophets. The remaining OT books (Minor Prophets, Daniel, Ezekiel) and the New Testament are not included as source books in this dataset, though they appear frequently as targets.
+Source passages cover Genesis through Jeremiah (Pentateuch, Historical Books, Wisdom Literature, and Major Prophets). Targets span the full canon — 1,220 OT-to-OT and 696 OT-to-New Testament connections.
