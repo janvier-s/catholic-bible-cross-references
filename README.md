@@ -122,5 +122,4 @@ Each JSON file is an array of reference groups, one per source passage:
 ## Notes
 
 - Data was extracted from the cross-reference apparatuses of three published Catholic Bible editions, normalized to a single book-code and locus scheme, merged, and deduplicated (a target appearing in more than one source is kept once).
-- A handful of loci are preserved exactly as printed in their source even though they look like typos (e.g. a verse range where the end verse is lower than the start) — these are not extraction bugs, just faithfully reproduced print errors.
 - Book codes follow standard scholarly abbreviations (e.g. `1Sm` = 1 Samuel, `Sg` = Song of Songs, `Ti` = Titus).
