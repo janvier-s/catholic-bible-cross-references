@@ -71,6 +71,10 @@
     "book": "Am",
     "chapter": 5,
     "verse": 11
+   },
+   {
+    "book": "Am",
+    "chapter": 5
    }
   ]
  },
@@ -104,6 +108,18 @@
     "book": "Jl",
     "chapter": 2,
     "verse": 2
+   },
+   {
+    "book": "Jer",
+    "chapter": 30
+   },
+   {
+    "book": "Jl",
+    "chapter": 2
+   },
+   {
+    "book": "Am",
+    "chapter": 3
    }
   ]
  },
@@ -137,6 +153,10 @@
     "book": "Am",
     "chapter": 8,
     "verse": 9
+   },
+   {
+    "book": "Ez",
+    "chapter": 7
    }
   ]
  },
@@ -361,6 +381,10 @@
     "book": "Is",
     "chapter": 34,
     "verse": 11
+   },
+   {
+    "book": "Is",
+    "chapter": 34
    }
   ]
  },
@@ -404,6 +428,14 @@
     "book": "Mi",
     "chapter": 3,
     "verse": 11
+   },
+   {
+    "book": "Ez",
+    "chapter": 22
+   },
+   {
+    "book": "Mi",
+    "chapter": 3
    }
   ]
  },

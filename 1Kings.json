@@ -607,6 +607,16 @@
   ]
  },
  {
+  "chapter": 6,
+  "verse": 38,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 22
+   }
+  ]
+ },
+ {
   "chapter": 7,
   "verse": 1,
   "targets": [
@@ -1467,6 +1477,20 @@
     "chapter": 8,
     "verse": 13,
     "verse_end": 14
+   },
+   {
+    "book": "2Sm",
+    "chapter": 8
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 23,
+  "targets": [
+   {
+    "book": "2Sm",
+    "chapter": 10
    }
   ]
  },
@@ -2043,6 +2067,10 @@
     "book": "Jos",
     "chapter": 6,
     "verse": 26
+   },
+   {
+    "book": "Jos",
+    "chapter": 6
    }
   ]
  },

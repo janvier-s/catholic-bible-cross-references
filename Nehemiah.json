@@ -366,6 +366,16 @@
  },
  {
   "chapter": 8,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Ezr",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "chapter": 8,
   "verse": 10,
   "targets": [
    {
@@ -1152,6 +1162,10 @@
     "chapter": 23,
     "verse": 4,
     "verse_end": 6
+   },
+   {
+    "book": "Dt",
+    "chapter": 23
    }
   ]
  },

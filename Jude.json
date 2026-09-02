@@ -124,6 +124,15 @@
     "book": "Heb",
     "chapter": 3,
     "verse": 17
+   },
+   {
+    "book": "2Pt",
+    "chapter": 2
+   },
+   {
+    "book": "Nm",
+    "chapter": 14,
+    "verse": 37
    }
   ]
  },
@@ -383,6 +392,18 @@
     "book": "2Pt",
     "chapter": 3,
     "verse": 3
+   },
+   {
+    "book": "1Tim",
+    "chapter": 4
+   },
+   {
+    "book": "2Tim",
+    "chapter": 3
+   },
+   {
+    "book": "2Pt",
+    "chapter": 3
    }
   ]
  },

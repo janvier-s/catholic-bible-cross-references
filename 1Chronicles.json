@@ -2429,6 +2429,16 @@
  },
  {
   "chapter": 6,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "2Chr",
+    "chapter": 26
+   }
+  ]
+ },
+ {
+  "chapter": 6,
   "verse": 14,
   "targets": [
    {
@@ -4460,6 +4470,16 @@
  {
   "chapter": 16,
   "verse": 8,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 105
+   }
+  ]
+ },
+ {
+  "chapter": 16,
+  "verse": 8,
   "verse_end": 22,
   "targets": [
    {
@@ -4467,6 +4487,16 @@
     "chapter": 105,
     "verse": 1,
     "verse_end": 15
+   }
+  ]
+ },
+ {
+  "chapter": 16,
+  "verse": 23,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 96
    }
   ]
  },
@@ -4495,6 +4525,10 @@
     "book": "Ps",
     "chapter": 106,
     "verse": 1
+   },
+   {
+    "book": "Ps",
+    "chapter": 106
    }
   ]
  },
@@ -5057,6 +5091,10 @@
     "book": "2Sm",
     "chapter": 12,
     "verse": 26
+   },
+   {
+    "book": "2Sm",
+    "chapter": 11
    }
   ]
  },
@@ -6653,6 +6691,10 @@
     "chapter": 11,
     "verse": 10,
     "verse_end": 47
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 1
    }
   ]
  },
@@ -6687,6 +6729,16 @@
     "chapter": 132,
     "verse": 3,
     "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 28,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "2Sm",
+    "chapter": 7
    }
   ]
  },
@@ -7083,6 +7135,17 @@
     "book": "1Kgs",
     "chapter": 18,
     "verse": 36
+   }
+  ]
+ },
+ {
+  "chapter": 29,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 1,
+    "verse": 34
    }
   ]
  },

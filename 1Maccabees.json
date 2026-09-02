@@ -316,6 +316,10 @@
     "chapter": 25,
     "verse": 6,
     "verse_end": 13
+   },
+   {
+    "book": "Nm",
+    "chapter": 25
    }
   ]
  },
@@ -378,6 +382,10 @@
     "chapter": 22,
     "verse": 1,
     "verse_end": 18
+   },
+   {
+    "book": "Gen",
+    "chapter": 22
    }
   ]
  },
@@ -404,6 +412,10 @@
    {
     "book": "Gen",
     "chapter": 39
+   },
+   {
+    "book": "Gen",
+    "chapter": 41
    }
   ]
  },
@@ -422,6 +434,10 @@
     "chapter": 25,
     "verse": 6,
     "verse_end": 13
+   },
+   {
+    "book": "Nm",
+    "chapter": 25
    }
   ]
  },
@@ -469,6 +485,10 @@
     "book": "Jos",
     "chapter": 14,
     "verse": 14
+   },
+   {
+    "book": "Nm",
+    "chapter": 14
    }
   ]
  },
@@ -489,6 +509,10 @@
    {
     "book": "2Sm",
     "chapter": 7
+   },
+   {
+    "book": "2Sm",
+    "chapter": 2
    }
   ]
  },
@@ -510,6 +534,10 @@
     "book": "2Kgs",
     "chapter": 2,
     "verse": 11
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 2
    }
   ]
  },
@@ -540,6 +568,10 @@
    {
     "book": "Dn",
     "chapter": 6
+   },
+   {
+    "book": "Dn",
+    "chapter": 5
    }
   ]
  },
@@ -690,6 +722,10 @@
     "book": "Dt",
     "chapter": 20,
     "verse": 5
+   },
+   {
+    "book": "Dt",
+    "chapter": 20
    }
   ]
  },
@@ -754,6 +790,10 @@
    {
     "book": "Ps",
     "chapter": 136
+   },
+   {
+    "book": "Ps",
+    "chapter": 107
    }
   ]
  },
@@ -920,6 +960,16 @@
     "chapter": 43,
     "verse": 18,
     "verse_end": 27
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 56,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 10
    }
   ]
  },
@@ -1113,6 +1163,10 @@
     "chapter": 21,
     "verse": 21,
     "verse_end": 24
+   },
+   {
+    "book": "Nm",
+    "chapter": 20
    }
   ]
  },
@@ -1318,6 +1372,10 @@
     "chapter": 79,
     "verse": 2,
     "verse_end": 3
+   },
+   {
+    "book": "Ps",
+    "chapter": 79
    }
   ]
  },
@@ -1453,6 +1511,10 @@
    {
     "book": "Is",
     "chapter": 36
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 19
    }
   ]
  },
@@ -1573,6 +1635,17 @@
     "book": "1Mc",
     "chapter": 5,
     "verse": 25
+   }
+  ]
+ },
+ {
+  "chapter": 9,
+  "verse": 46,
+  "targets": [
+   {
+    "book": "2Chr",
+    "chapter": 20,
+    "verse": 3
    }
   ]
  },

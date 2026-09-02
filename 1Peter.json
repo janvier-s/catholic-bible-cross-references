@@ -29,6 +29,16 @@
     "book": "Ti",
     "chapter": 3,
     "verse": 5
+   },
+   {
+    "book": "2Cor",
+    "chapter": 1,
+    "verse": 3
+   },
+   {
+    "book": "Eph",
+    "chapter": 1,
+    "verse": 3
    }
   ]
  },
@@ -132,6 +142,28 @@
     "chapter": 11,
     "verse": 44,
     "verse_end": 45
+   },
+   {
+    "book": "Lev",
+    "chapter": 11,
+    "verse": 19
+   },
+   {
+    "book": "Lev",
+    "chapter": 20,
+    "verse": 7
+   },
+   {
+    "book": "Dt",
+    "chapter": 10
+   },
+   {
+    "book": "Rom",
+    "chapter": 2
+   },
+   {
+    "book": "Gal",
+    "chapter": 2
    }
   ]
  },
@@ -159,6 +191,11 @@
     "book": "1Cor",
     "chapter": 6,
     "verse": 20
+   },
+   {
+    "book": "1Cor",
+    "chapter": 7,
+    "verse": 23
    }
   ]
  },
@@ -180,6 +217,27 @@
     "book": "Heb",
     "chapter": 9,
     "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 25
+   },
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 26
+   },
+   {
+    "book": "Ti",
+    "chapter": 1,
+    "verse": 2
    }
   ]
  },
@@ -214,6 +272,11 @@
     "chapter": 40,
     "verse": 6,
     "verse_end": 8
+   },
+   {
+    "book": "Is",
+    "chapter": 40,
+    "verse": 6
    }
   ]
  },
@@ -335,6 +398,35 @@
     "book": "Mk",
     "chapter": 12,
     "verse": 10
+   },
+   {
+    "book": "Ps",
+    "chapter": 118
+   },
+   {
+    "book": "Mt",
+    "chapter": 21
+   },
+   {
+    "book": "Acts",
+    "chapter": 4
+   },
+   {
+    "book": "Is",
+    "chapter": 8
+   },
+   {
+    "book": "Rom",
+    "chapter": 9,
+    "verse": 33
+   },
+   {
+    "book": "Ex",
+    "chapter": 19
+   },
+   {
+    "book": "Rev",
+    "chapter": 1
    }
   ]
  },
@@ -427,6 +519,14 @@
     "book": "Hos",
     "chapter": 2,
     "verse": 23
+   },
+   {
+    "book": "Hos",
+    "chapter": 2
+   },
+   {
+    "book": "Rom",
+    "chapter": 9
    }
   ]
  },
@@ -438,6 +538,22 @@
     "book": "Gal",
     "chapter": 5,
     "verse": 24
+   },
+   {
+    "book": "Gal",
+    "chapter": 5,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 16
    }
   ]
  },
@@ -450,6 +566,11 @@
     "chapter": 13,
     "verse": 1,
     "verse_end": 7
+   },
+   {
+    "book": "Rom",
+    "chapter": 13,
+    "verse": 1
    }
   ]
  },
@@ -542,6 +663,11 @@
     "book": "Is",
     "chapter": 53,
     "verse": 5
+   },
+   {
+    "book": "Mt",
+    "chapter": 8,
+    "verse": 17
    }
   ]
  },
@@ -566,6 +692,22 @@
     "book": "Is",
     "chapter": 53,
     "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 5,
+    "verse": 28
+   },
+   {
+    "book": "Col",
+    "chapter": 3,
+    "verse": 18
    }
   ]
  },
@@ -607,6 +749,11 @@
     "chapter": 2,
     "verse": 9,
     "verse_end": 10
+   },
+   {
+    "book": "1Tim",
+    "chapter": 2,
+    "verse": 9
    }
   ]
  },
@@ -618,6 +765,10 @@
     "book": "Gen",
     "chapter": 18,
     "verse": 12
+   },
+   {
+    "book": "Gen",
+    "chapter": 18
    }
   ]
  },
@@ -656,6 +807,22 @@
     "book": "Rom",
     "chapter": 12,
     "verse": 14
+   },
+   {
+    "book": "Prv",
+    "chapter": 17,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 34,
+    "verse": 13
    }
   ]
  },
@@ -687,6 +854,11 @@
     "chapter": 8,
     "verse": 12,
     "verse_end": 13
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 10
    }
   ]
  },
@@ -752,6 +924,10 @@
    {
     "book": "Gen",
     "chapter": 6
+   },
+   {
+    "book": "Mt",
+    "chapter": 24
    }
   ]
  },
@@ -845,6 +1021,10 @@
     "book": "Jas",
     "chapter": 5,
     "verse": 20
+   },
+   {
+    "book": "Prv",
+    "chapter": 10
    }
   ]
  },
@@ -856,6 +1036,14 @@
     "book": "Heb",
     "chapter": 13,
     "verse": 2
+   },
+   {
+    "book": "Rom",
+    "chapter": 12
+   },
+   {
+    "book": "Heb",
+    "chapter": 13
    }
   ]
  },
@@ -880,6 +1068,11 @@
     "chapter": 12,
     "verse": 7,
     "verse_end": 12
+   },
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 6
    }
   ]
  },
@@ -956,6 +1149,11 @@
     "book": "Is",
     "chapter": 11,
     "verse": 2
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 11
    }
   ]
  },
@@ -972,6 +1170,11 @@
     "book": "2Thes",
     "chapter": 1,
     "verse": 8
+   },
+   {
+    "book": "Jer",
+    "chapter": 25,
+    "verse": 29
    }
   ]
  },
@@ -1053,6 +1256,23 @@
     "book": "Jas",
     "chapter": 4,
     "verse": 10
+   },
+   {
+    "book": "Prv",
+    "chapter": 3
+   },
+   {
+    "book": "Jas",
+    "chapter": 4
+   },
+   {
+    "book": "Ps",
+    "chapter": 55
+   },
+   {
+    "book": "Mt",
+    "chapter": 6,
+    "verse": 25
    }
   ]
  },

@@ -17,6 +17,18 @@
     "book": "1Kgs",
     "chapter": 22,
     "verse": 28
+   },
+   {
+    "book": "Dt",
+    "chapter": 32
+   },
+   {
+    "book": "Is",
+    "chapter": 1
+   },
+   {
+    "book": "Is",
+    "chapter": 26
    }
   ]
  },
@@ -176,6 +188,14 @@
     "book": "Is",
     "chapter": 1,
     "verse": 23
+   },
+   {
+    "book": "Ez",
+    "chapter": 22
+   },
+   {
+    "book": "Zep",
+    "chapter": 3
    }
   ]
  },
@@ -187,6 +207,20 @@
     "book": "Jer",
     "chapter": 26,
     "verse": 18
+   },
+   {
+    "book": "Jer",
+    "chapter": 26
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 2
    }
   ]
  },
@@ -274,6 +308,18 @@
     "book": "Is",
     "chapter": 4,
     "verse": 3
+   },
+   {
+    "book": "Zep",
+    "chapter": 3
+   },
+   {
+    "book": "Lk",
+    "chapter": 1
+   },
+   {
+    "book": "Dn",
+    "chapter": 7
    }
   ]
  },
@@ -448,6 +494,18 @@
     "book": "Ex",
     "chapter": 15,
     "verse": 20
+   },
+   {
+    "book": "Jer",
+    "chapter": 2
+   },
+   {
+    "book": "Ex",
+    "chapter": 14
+   },
+   {
+    "book": "Nm",
+    "chapter": 22
    }
   ]
  },
@@ -547,6 +605,18 @@
     "book": "Hg",
     "chapter": 1,
     "verse": 6
+   },
+   {
+    "book": "Lev",
+    "chapter": 26
+   },
+   {
+    "book": "Dt",
+    "chapter": 28
+   },
+   {
+    "book": "Hg",
+    "chapter": 1
    }
   ]
  },
@@ -714,6 +784,18 @@
     "book": "Ex",
     "chapter": 34,
     "verse": 6
+   },
+   {
+    "book": "Jer",
+    "chapter": 10
+   },
+   {
+    "book": "Acts",
+    "chapter": 10
+   },
+   {
+    "book": "Acts",
+    "chapter": 2
    }
   ]
  },
@@ -745,6 +827,16 @@
     "book": "Lk",
     "chapter": 1,
     "verse": 55
+   },
+   {
+    "book": "Lk",
+    "chapter": 1,
+    "verse": 35
+   },
+   {
+    "book": "Gen",
+    "chapter": 22,
+    "verse": 17
    }
   ]
  }

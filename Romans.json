@@ -994,6 +994,11 @@
     "book": "Rev",
     "chapter": 22,
     "verse": 12
+   },
+   {
+    "book": "Ps",
+    "chapter": 62,
+    "verse": 13
    }
   ]
  },
@@ -1128,6 +1133,11 @@
     "book": "Jas",
     "chapter": 1,
     "verse": 25
+   },
+   {
+    "book": "Jas",
+    "chapter": 1,
+    "verse": 22
    }
   ]
  },
@@ -1536,6 +1546,11 @@
     "book": "Ps",
     "chapter": 51,
     "verse": 4
+   },
+   {
+    "book": "Jn",
+    "chapter": 3,
+    "verse": 33
    }
   ]
  },
@@ -1635,6 +1650,22 @@
  {
   "chapter": 3,
   "verse": 10,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 14,
+    "verse": 1
+   },
+   {
+    "book": "Ps",
+    "chapter": 53,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 10,
   "verse_end": 11,
   "targets": [
    {
@@ -1698,6 +1729,11 @@
     "book": "Ps",
     "chapter": 140,
     "verse": 3
+   },
+   {
+    "book": "Ps",
+    "chapter": 5,
+    "verse": 11
    }
   ]
  },
@@ -1708,6 +1744,16 @@
    {
     "book": "Ps",
     "chapter": 10,
+    "verse": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 9,
+    "verse": 7
+   },
+   {
+    "book": "Is",
+    "chapter": 19,
     "verse": 7
    }
   ]
@@ -1721,6 +1767,11 @@
     "chapter": 59,
     "verse": 7,
     "verse_end": 8
+   },
+   {
+    "book": "Prv",
+    "chapter": 1,
+    "verse": 16
    }
   ]
  },
@@ -2159,6 +2210,11 @@
     "book": "Jas",
     "chapter": 2,
     "verse": 23
+   },
+   {
+    "book": "Gen",
+    "chapter": 5,
+    "verse": 6
    }
   ]
  },
@@ -2193,6 +2249,11 @@
     "chapter": 32,
     "verse": 1,
     "verse_end": 2
+   },
+   {
+    "book": "Ps",
+    "chapter": 32,
+    "verse": 1
    }
   ]
  },
@@ -2390,6 +2451,11 @@
     "book": "Jn",
     "chapter": 5,
     "verse": 21
+   },
+   {
+    "book": "Gen",
+    "chapter": 17,
+    "verse": 4
    }
   ]
  },
@@ -4192,6 +4258,11 @@
     "chapter": 4,
     "verse": 5,
     "verse_end": 7
+   },
+   {
+    "book": "Gal",
+    "chapter": 4,
+    "verse": 5
    }
   ]
  },
@@ -4929,6 +5000,11 @@
     "chapter": 1,
     "verse": 2,
     "verse_end": 3
+   },
+   {
+    "book": "Mal",
+    "chapter": 1,
+    "verse": 2
    }
   ]
  },
@@ -4961,6 +5037,14 @@
     "book": "Ex",
     "chapter": 33,
     "verse": 19
+   },
+   {
+    "book": "Ex",
+    "chapter": 33
+   },
+   {
+    "book": "Ex",
+    "chapter": 19
    }
   ]
  },
@@ -5229,6 +5313,11 @@
     "book": "Is",
     "chapter": 11,
     "verse": 11
+   },
+   {
+    "book": "Is",
+    "chapter": 10,
+    "verse": 22
    }
   ]
  },
@@ -5395,6 +5484,11 @@
     "book": "Rom",
     "chapter": 10,
     "verse": 11
+   },
+   {
+    "book": "Is",
+    "chapter": 8,
+    "verse": 14
    }
   ]
  },
@@ -5725,6 +5819,11 @@
     "book": "Jl",
     "chapter": 2,
     "verse": 32
+   },
+   {
+    "book": "Jl",
+    "chapter": 2,
+    "verse": 22
    }
   ]
  },
@@ -6085,6 +6184,11 @@
     "chapter": 13,
     "verse": 13,
     "verse_end": 14
+   },
+   {
+    "book": "Is",
+    "chapter": 6,
+    "verse": 9
    }
   ]
  },
@@ -6097,6 +6201,11 @@
     "chapter": 69,
     "verse": 22,
     "verse_end": 23
+   },
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 23
    }
   ]
  },
@@ -6389,6 +6498,11 @@
     "chapter": 59,
     "verse": 20,
     "verse_end": 21
+   },
+   {
+    "book": "Is",
+    "chapter": 59,
+    "verse": 20
    }
   ]
  },
@@ -6670,6 +6784,11 @@
     "book": "Rom",
     "chapter": 6,
     "verse": 19
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 18
    }
   ]
  },
@@ -6717,6 +6836,11 @@
     "book": "Eph",
     "chapter": 4,
     "verse": 23
+   },
+   {
+    "book": "1Thes",
+    "chapter": 4,
+    "verse": 3
    }
   ]
  },
@@ -7214,6 +7338,11 @@
     "book": "Lk",
     "chapter": 6,
     "verse": 27
+   },
+   {
+    "book": "Prv",
+    "chapter": 25,
+    "verse": 21
    }
   ]
  },
@@ -7258,6 +7387,11 @@
     "book": "Prv",
     "chapter": 8,
     "verse": 15
+   },
+   {
+    "book": "1Pt",
+    "chapter": 2,
+    "verse": 13
    }
   ]
  },
@@ -7448,6 +7582,11 @@
     "book": "Mt",
     "chapter": 19,
     "verse": 19
+   },
+   {
+    "book": "Ex",
+    "chapter": 20,
+    "verse": 13
    }
   ]
  },
@@ -7913,6 +8052,10 @@
     "book": "1Cor",
     "chapter": 8,
     "verse": 11
+   },
+   {
+    "book": "1Cor",
+    "chapter": 8
    }
   ]
  },
@@ -7988,6 +8131,11 @@
     "chapter": 8,
     "verse": 9,
     "verse_end": 12
+   },
+   {
+    "book": "Ti",
+    "chapter": 1,
+    "verse": 15
    }
   ]
  },
@@ -8398,6 +8546,11 @@
     "book": "Is",
     "chapter": 52,
     "verse": 15
+   },
+   {
+    "book": "Is",
+    "chapter": 52,
+    "verse": 13
    }
   ]
  },

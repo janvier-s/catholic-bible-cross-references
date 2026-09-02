@@ -479,6 +479,14 @@
     "book": "Hos",
     "chapter": 6,
     "verse": 6
+   },
+   {
+    "book": "1Sm",
+    "chapter": 15
+   },
+   {
+    "book": "Hos",
+    "chapter": 6
    }
   ]
  },
@@ -576,6 +584,16 @@
     "book": "Prv",
     "chapter": 28,
     "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 20
    }
   ]
  },
@@ -695,6 +713,10 @@
     "book": "Ecc",
     "chapter": 12,
     "verse": 1
+   },
+   {
+    "book": "Prv",
+    "chapter": 22
    }
   ]
  },
@@ -727,6 +749,28 @@
     "book": "Rom",
     "chapter": 3,
     "verse": 23
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 8
+   },
+   {
+    "book": "2Chr",
+    "chapter": 6
+   },
+   {
+    "book": "Prv",
+    "chapter": 20
+   },
+   {
+    "book": "1Jn",
+    "chapter": 1
    }
   ]
  },

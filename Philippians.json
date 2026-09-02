@@ -514,6 +514,11 @@
     "book": "Gal",
     "chapter": 5,
     "verse": 26
+   },
+   {
+    "book": "1Cor",
+    "chapter": 10,
+    "verse": 24
    }
   ]
  },
@@ -684,6 +689,11 @@
     "book": "Heb",
     "chapter": 12,
     "verse": 2
+   },
+   {
+    "book": "Heb",
+    "chapter": 2,
+    "verse": 9
    }
   ]
  },
@@ -777,6 +787,11 @@
     "book": "Rev",
     "chapter": 5,
     "verse": 13
+   },
+   {
+    "book": "Is",
+    "chapter": 45,
+    "verse": 14
    }
   ]
  },
@@ -1226,6 +1241,11 @@
     "book": "Acts",
     "chapter": 26,
     "verse": 5
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 22
    }
   ]
  },
@@ -1417,6 +1437,11 @@
     "book": "Gal",
     "chapter": 6,
     "verse": 12
+   },
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 17
    }
   ]
  },

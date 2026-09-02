@@ -202,6 +202,10 @@
     "book": "Is",
     "chapter": 59,
     "verse": 19
+   },
+   {
+    "book": "Ps",
+    "chapter": 113
    }
   ]
  },
@@ -219,6 +223,14 @@
     "book": "Dt",
     "chapter": 28,
     "verse": 15
+   },
+   {
+    "book": "Lev",
+    "chapter": 26
+   },
+   {
+    "book": "Dt",
+    "chapter": 28
    }
   ]
  },
@@ -292,6 +304,11 @@
     "book": "Eph",
     "chapter": 4,
     "verse": 6
+   },
+   {
+    "book": "Eph",
+    "chapter": 4,
+    "verse": 5
    }
   ]
  },
@@ -308,6 +325,20 @@
     "book": "Neh",
     "chapter": 13,
     "verse": 25
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Jl",
+    "chapter": 3
+   },
+   {
+    "book": "Zec",
+    "chapter": 14
    }
   ]
  },
@@ -362,6 +393,17 @@
   ]
  },
  {
+  "chapter": 2,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 4,
+    "verse": 29
+   }
+  ]
+ },
+ {
   "chapter": 3,
   "verse": 1,
   "targets": [
@@ -400,6 +442,23 @@
     "book": "Lk",
     "chapter": 7,
     "verse": 27
+   },
+   {
+    "book": "Mk",
+    "chapter": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 132,
+    "verse": 17
    }
   ]
  },
@@ -738,6 +797,49 @@
     "book": "Lk",
     "chapter": 1,
     "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Zec",
+    "chapter": 3,
+    "verse": 8
+   },
+   {
+    "book": "Zec",
+    "chapter": 6,
+    "verse": 11
+   },
+   {
+    "book": "Lk",
+    "chapter": 1,
+    "verse": 78
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Ex",
+    "chapter": 20
+   },
+   {
+    "book": "Dt",
+    "chapter": 4
+   },
+   {
+    "book": "Dt",
+    "chapter": 5
+   },
+   {
+    "book": "Dt",
+    "chapter": 6
    }
   ]
  },

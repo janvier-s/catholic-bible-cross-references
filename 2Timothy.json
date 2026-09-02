@@ -134,6 +134,11 @@
     "book": "Ti",
     "chapter": 1,
     "verse": 2
+   },
+   {
+    "book": "Ti",
+    "chapter": 1,
+    "verse": 3
    }
   ]
  },
@@ -442,6 +447,10 @@
     "book": "Lk",
     "chapter": 12,
     "verse": 9
+   },
+   {
+    "book": "Mt",
+    "chapter": 10
    }
   ]
  },
@@ -469,6 +478,11 @@
     "book": "Ti",
     "chapter": 1,
     "verse": 2
+   },
+   {
+    "book": "Rom",
+    "chapter": 3,
+    "verse": 3
    }
   ]
  },
@@ -767,6 +781,10 @@
     "book": "1Tim",
     "chapter": 6,
     "verse": 5
+   },
+   {
+    "book": "Ex",
+    "chapter": 7
    }
   ]
  },
@@ -866,6 +884,11 @@
     "chapter": 1,
     "verse": 19,
     "verse_end": 21
+   },
+   {
+    "book": "2Pt",
+    "chapter": 1,
+    "verse": 21
    }
   ]
  },

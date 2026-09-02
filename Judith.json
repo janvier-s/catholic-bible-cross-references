@@ -625,6 +625,10 @@
     "book": "Jl",
     "chapter": 2,
     "verse": 15
+   },
+   {
+    "book": "Ex",
+    "chapter": 17
    }
   ]
  },
@@ -701,6 +705,10 @@
     "book": "Gen",
     "chapter": 11,
     "verse": 31
+   },
+   {
+    "book": "Gen",
+    "chapter": 11
    }
   ]
  },
@@ -730,6 +738,10 @@
     "book": "Gen",
     "chapter": 13,
     "verse": 2
+   },
+   {
+    "book": "Gen",
+    "chapter": 12
    }
   ]
  },
@@ -753,6 +765,14 @@
     "book": "Ex",
     "chapter": 1,
     "verse": 7
+   },
+   {
+    "book": "Ex",
+    "chapter": 1
+   },
+   {
+    "book": "Ex",
+    "chapter": 7
    }
   ]
  },
@@ -876,6 +896,18 @@
    {
     "book": "Jos",
     "chapter": 3
+   },
+   {
+    "book": "Ex",
+    "chapter": 15
+   },
+   {
+    "book": "Ex",
+    "chapter": 16
+   },
+   {
+    "book": "Ex",
+    "chapter": 17
    }
   ]
  },
@@ -918,6 +950,24 @@
  {
   "chapter": 5,
   "verse": 17,
+  "targets": [
+   {
+    "book": "Jgs",
+    "chapter": 2
+   },
+   {
+    "book": "Jgs",
+    "chapter": 3
+   },
+   {
+    "book": "Jgs",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 17,
   "verse_end": 18,
   "targets": [
    {
@@ -945,6 +995,26 @@
    {
     "book": "2Kgs",
     "chapter": 25
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Nm",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Jos",
+    "chapter": 21
    }
   ]
  },
@@ -979,6 +1049,16 @@
     "book": "Jdt",
     "chapter": 1,
     "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 21
    }
   ]
  },

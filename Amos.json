@@ -532,6 +532,14 @@
     "book": "Dt",
     "chapter": 9,
     "verse": 1
+   },
+   {
+    "book": "Nm",
+    "chapter": 21
+   },
+   {
+    "book": "Dt",
+    "chapter": 2
    }
   ]
  },
@@ -755,6 +763,10 @@
     "book": "Hg",
     "chapter": 2,
     "verse": 17
+   },
+   {
+    "book": "Hg",
+    "chapter": 2
    }
   ]
  },
@@ -880,6 +892,10 @@
     "book": "Am",
     "chapter": 6,
     "verse": 12
+   },
+   {
+    "book": "Zep",
+    "chapter": 1
    }
   ]
  },
@@ -933,6 +949,14 @@
     "book": "Is",
     "chapter": 4,
     "verse": 3
+   },
+   {
+    "book": "Rom",
+    "chapter": 12
+   },
+   {
+    "book": "Ps",
+    "chapter": 97
    }
   ]
  },
@@ -972,6 +996,40 @@
     "chapter": 1,
     "verse": 14,
     "verse_end": 18
+   },
+   {
+    "book": "Is",
+    "chapter": 13
+   },
+   {
+    "book": "Jer",
+    "chapter": 30
+   },
+   {
+    "book": "Jl",
+    "chapter": 1
+   },
+   {
+    "book": "Zep",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 1
+   },
+   {
+    "book": "Jer",
+    "chapter": 6
+   },
+   {
+    "book": "Mt",
+    "chapter": 2
    }
   ]
  },
@@ -1013,6 +1071,14 @@
     "book": "Hos",
     "chapter": 2,
     "verse": 16
+   },
+   {
+    "book": "Acts",
+    "chapter": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 95
    }
   ]
  },
@@ -1060,6 +1126,16 @@
  },
  {
   "chapter": 6,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Jas",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "chapter": 6,
   "verse": 4,
   "targets": [
    {
@@ -1083,6 +1159,10 @@
     "book": "Jer",
     "chapter": 51,
     "verse": 14
+   },
+   {
+    "book": "Jer",
+    "chapter": 51
    }
   ]
  },
@@ -1236,6 +1316,22 @@
     "book": "Am",
     "chapter": 9,
     "verse": 5
+   },
+   {
+    "book": "Dt",
+    "chapter": 1
+   },
+   {
+    "book": "Jer",
+    "chapter": 15
+   },
+   {
+    "book": "Tb",
+    "chapter": 2
+   },
+   {
+    "book": "Mk",
+    "chapter": 1
    }
   ]
  },
@@ -1319,6 +1415,10 @@
     "book": "Jb",
     "chapter": 20,
     "verse": 6
+   },
+   {
+    "book": "Ps",
+    "chapter": 139
    }
   ]
  },
@@ -1346,6 +1446,10 @@
     "book": "Am",
     "chapter": 4,
     "verse": 13
+   },
+   {
+    "book": "Jer",
+    "chapter": 44
    }
   ]
  },
@@ -1430,6 +1534,10 @@
     "chapter": 65,
     "verse": 21,
     "verse_end": 22
+   },
+   {
+    "book": "Jl",
+    "chapter": 3
    }
   ]
  }

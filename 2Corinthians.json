@@ -546,6 +546,17 @@
  },
  {
   "chapter": 3,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Ex",
+    "chapter": 34,
+    "verse": 33
+   }
+  ]
+ },
+ {
+  "chapter": 3,
   "verse": 15,
   "targets": [
    {
@@ -576,6 +587,11 @@
     "chapter": 61,
     "verse": 1,
     "verse_end": 2
+   },
+   {
+    "book": "Jn",
+    "chapter": 4,
+    "verse": 24
    }
   ]
  },
@@ -995,6 +1011,11 @@
     "chapter": 14,
     "verse": 10,
     "verse_end": 11
+   },
+   {
+    "book": "Rom",
+    "chapter": 14,
+    "verse": 10
    }
   ]
  },
@@ -1111,6 +1132,14 @@
     "book": "Rom",
     "chapter": 16,
     "verse": 7
+   },
+   {
+    "book": "Is",
+    "chapter": 43
+   },
+   {
+    "book": "Is",
+    "chapter": 19
    }
   ]
  },
@@ -1487,6 +1516,11 @@
     "book": "1Cor",
     "chapter": 3,
     "verse": 16
+   },
+   {
+    "book": "Lev",
+    "chapter": 26,
+    "verse": 11
    }
   ]
  },
@@ -1574,6 +1608,11 @@
     "book": "Hos",
     "chapter": 1,
     "verse": 10
+   },
+   {
+    "book": "Jer",
+    "chapter": 31,
+    "verse": 1
    }
   ]
  },
@@ -1840,6 +1879,11 @@
     "book": "Ex",
     "chapter": 16,
     "verse": 18
+   },
+   {
+    "book": "Ex",
+    "chapter": 16,
+    "verse": 28
    }
   ]
  },
@@ -2188,6 +2232,11 @@
     "book": "Jer",
     "chapter": 9,
     "verse": 24
+   },
+   {
+    "book": "Jer",
+    "chapter": 9,
+    "verse": 23
    }
   ]
  },
@@ -2459,6 +2508,11 @@
     "chapter": 3,
     "verse": 5,
     "verse_end": 6
+   },
+   {
+    "book": "Phil",
+    "chapter": 3,
+    "verse": 5
    }
   ]
  },
@@ -2526,6 +2580,11 @@
     "book": "Acts",
     "chapter": 16,
     "verse": 22
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 23
    }
   ]
  },
@@ -2564,6 +2623,17 @@
     "book": "1Cor",
     "chapter": 9,
     "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 32,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 9,
+    "verse": 24
    }
   ]
  },
@@ -2853,6 +2923,22 @@
     "book": "2Cor",
     "chapter": 2,
     "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 13,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 16
+   },
+   {
+    "book": "1Cor",
+    "chapter": 16,
+    "verse": 20
    }
   ]
  },

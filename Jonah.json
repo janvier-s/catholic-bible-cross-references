@@ -103,6 +103,14 @@
     "book": "1Cor",
     "chapter": 15,
     "verse": 4
+   },
+   {
+    "book": "Mt",
+    "chapter": 12
+   },
+   {
+    "book": "Lk",
+    "chapter": 11
    }
   ]
  },
@@ -124,6 +132,14 @@
     "book": "Lam",
     "chapter": 3,
     "verse": 55
+   },
+   {
+    "book": "Ps",
+    "chapter": 120
+   },
+   {
+    "book": "Ps",
+    "chapter": 130
    }
   ]
  },
@@ -252,12 +268,26 @@
  },
  {
   "chapter": 3,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 18
+   }
+  ]
+ },
+ {
+  "chapter": 3,
   "verse": 9,
   "targets": [
    {
     "book": "Jl",
     "chapter": 2,
     "verse": 14
+   },
+   {
+    "book": "Jl",
+    "chapter": 2
    }
   ]
  },
@@ -285,6 +315,14 @@
     "book": "Ex",
     "chapter": 34,
     "verse": 6
+   },
+   {
+    "book": "Ps",
+    "chapter": 59
+   },
+   {
+    "book": "Jl",
+    "chapter": 2
    }
   ]
  },

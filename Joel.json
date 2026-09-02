@@ -317,6 +317,30 @@
     "book": "Rev",
     "chapter": 9,
     "verse": 2
+   },
+   {
+    "book": "Is",
+    "chapter": 13
+   },
+   {
+    "book": "Ez",
+    "chapter": 32
+   },
+   {
+    "book": "Mt",
+    "chapter": 24
+   },
+   {
+    "book": "Jer",
+    "chapter": 30
+   },
+   {
+    "book": "Am",
+    "chapter": 5
+   },
+   {
+    "book": "Zep",
+    "chapter": 1
    }
   ]
  },
@@ -374,6 +398,10 @@
     "book": "Jon",
     "chapter": 4,
     "verse": 2
+   },
+   {
+    "book": "Ps",
+    "chapter": 86
    }
   ]
  },
@@ -502,6 +530,20 @@
  {
   "chapter": 2,
   "verse": 28,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 44
+   },
+   {
+    "book": "Acts",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 28,
   "verse_end": 32,
   "targets": [
    {
@@ -531,6 +573,10 @@
     "book": "Rom",
     "chapter": 10,
     "verse": 13
+   },
+   {
+    "book": "Rom",
+    "chapter": 10
    }
   ]
  },
@@ -725,6 +771,24 @@
     "book": "Rev",
     "chapter": 14,
     "verse": 19
+   },
+   {
+    "book": "Rev",
+    "chapter": 14
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 21
+   },
+   {
+    "book": "Am",
+    "chapter": 1
    }
   ]
  },
@@ -763,6 +827,10 @@
     "book": "Rev",
     "chapter": 22,
     "verse": 1
+   },
+   {
+    "book": "Am",
+    "chapter": 9
    }
   ]
  },

@@ -51,6 +51,10 @@
     "book": "Hos",
     "chapter": 2,
     "verse": 23
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 19
    }
   ]
  },
@@ -1374,6 +1378,14 @@
     "book": "Jgs",
     "chapter": 10,
     "verse": 9
+   },
+   {
+    "book": "1Sm",
+    "chapter": 8
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 9
    }
   ]
  },
@@ -1552,6 +1564,14 @@
     "book": "Hos",
     "chapter": 4,
     "verse": 15
+   },
+   {
+    "book": "Is",
+    "chapter": 2
+   },
+   {
+    "book": "Rev",
+    "chapter": 6
    }
   ]
  },
@@ -1562,6 +1582,16 @@
    {
     "book": "Jgs",
     "chapter": 19
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 4
    }
   ]
  },
@@ -1625,6 +1655,10 @@
     "book": "Am",
     "chapter": 1,
     "verse": 13
+   },
+   {
+    "book": "Jgs",
+    "chapter": 8
    }
   ]
  },
@@ -1668,6 +1702,10 @@
     "book": "Mt",
     "chapter": 2,
     "verse": 15
+   },
+   {
+    "book": "Mt",
+    "chapter": 2
    }
   ]
  },
@@ -1706,6 +1744,16 @@
     "book": "Dt",
     "chapter": 17,
     "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 19
    }
   ]
  },
@@ -1770,6 +1818,20 @@
     "book": "Hos",
     "chapter": 5,
     "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 25
+   },
+   {
+    "book": "Gen",
+    "chapter": 32
    }
   ]
  },
@@ -1908,6 +1970,14 @@
     "book": "Hos",
     "chapter": 6,
     "verse": 8
+   },
+   {
+    "book": "Gen",
+    "chapter": 28
+   },
+   {
+    "book": "Ex",
+    "chapter": 14
    }
   ]
  },
@@ -2026,6 +2096,10 @@
     "book": "Hos",
     "chapter": 2,
     "verse": 16
+   },
+   {
+    "book": "Is",
+    "chapter": 43
    }
   ]
  },
@@ -2054,6 +2128,10 @@
     "chapter": 8,
     "verse": 5,
     "verse_end": 7
+   },
+   {
+    "book": "1Sm",
+    "chapter": 8
    }
   ]
  },
@@ -2120,6 +2198,18 @@
     "chapter": 37,
     "verse": 1,
     "verse_end": 14
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15
+   },
+   {
+    "book": "Heb",
+    "chapter": 2
+   },
+   {
+    "book": "Ez",
+    "chapter": 19
    }
   ]
  },
@@ -2184,6 +2274,14 @@
     "book": "Heb",
     "chapter": 13,
     "verse": 15
+   },
+   {
+    "book": "Jl",
+    "chapter": 2
+   },
+   {
+    "book": "Zec",
+    "chapter": 1
    }
   ]
  },

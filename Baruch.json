@@ -328,6 +328,11 @@
     "chapter": 28,
     "verse": 43,
     "verse_end": 44
+   },
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 43
    }
   ]
  },
@@ -472,6 +477,17 @@
  },
  {
   "chapter": 2,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 2,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 2,
   "verse": 21,
   "targets": [
    {
@@ -550,6 +566,11 @@
     "book": "Lev",
     "chapter": 26,
     "verse": 39
+   },
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 62
    }
   ]
  },
@@ -1162,6 +1183,16 @@
     "book": "Jer",
     "chapter": 32,
     "verse": 42
+   },
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 49
+   },
+   {
+    "book": "Jer",
+    "chapter": 5,
+    "verse": 15
    }
   ]
  },
@@ -1446,6 +1477,25 @@
     "book": "Jer",
     "chapter": 29,
     "verse": 1
+   },
+   {
+    "book": "Jer",
+    "chapter": 25,
+    "verse": 8
+   },
+   {
+    "book": "Jer",
+    "chapter": 9
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 44
    }
   ]
  },
@@ -1522,6 +1572,17 @@
     "book": "Jer",
     "chapter": 22,
     "verse": 28
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 24,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 46,
+    "verse": 6
    }
   ]
  },

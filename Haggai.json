@@ -41,6 +41,14 @@
     "book": "Hos",
     "chapter": 4,
     "verse": 10
+   },
+   {
+    "book": "Dt",
+    "chapter": 28
+   },
+   {
+    "book": "Mi",
+    "chapter": 6
    }
   ]
  },
@@ -114,6 +122,10 @@
     "book": "Is",
     "chapter": 60,
     "verse": 5
+   },
+   {
+    "book": "Heb",
+    "chapter": 12
    }
   ]
  },
@@ -171,6 +183,10 @@
     "book": "Am",
     "chapter": 4,
     "verse": 9
+   },
+   {
+    "book": "Am",
+    "chapter": 4
    }
   ]
  },
@@ -194,6 +210,16 @@
     "chapter": 6,
     "verse": 12,
     "verse_end": 13
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 24,
+  "targets": [
+   {
+    "book": "Sir",
+    "chapter": 49
    }
   ]
  }

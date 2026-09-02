@@ -125,6 +125,11 @@
     "chapter": 17,
     "verse": 4,
     "verse_end": 6
+   },
+   {
+    "book": "Mt",
+    "chapter": 17,
+    "verse": 5
    }
   ]
  },
@@ -171,6 +176,17 @@
   ]
  },
  {
+  "chapter": 1,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "2Tim",
+    "chapter": 3,
+    "verse": 17
+   }
+  ]
+ },
+ {
   "chapter": 2,
   "verse": 1,
   "targets": [
@@ -199,6 +215,10 @@
     "chapter": 1,
     "verse": 4,
     "verse_end": 16
+   },
+   {
+    "book": "1Tim",
+    "chapter": 4
    }
   ]
  },
@@ -493,6 +513,11 @@
     "chapter": 6,
     "verse": 16,
     "verse_end": 17
+   },
+   {
+    "book": "Rom",
+    "chapter": 6,
+    "verse": 16
    }
   ]
  },
@@ -688,6 +713,14 @@
     "book": "1Tim",
     "chapter": 2,
     "verse": 4
+   },
+   {
+    "book": "Ez",
+    "chapter": 33
+   },
+   {
+    "book": "1Tim",
+    "chapter": 2
    }
   ]
  },
@@ -730,6 +763,18 @@
     "book": "Zep",
     "chapter": 1,
     "verse": 18
+   },
+   {
+    "book": "Mt",
+    "chapter": 24
+   },
+   {
+    "book": "1Thes",
+    "chapter": 5
+   },
+   {
+    "book": "Rev",
+    "chapter": 3
    }
   ]
  },
@@ -810,6 +855,11 @@
     "book": "Jd",
     "chapter": 1,
     "verse": 24
+   },
+   {
+    "book": "Rom",
+    "chapter": 2,
+    "verse": 4
    }
   ]
  },

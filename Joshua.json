@@ -1256,6 +1256,10 @@
     "book": "Dt",
     "chapter": 31,
     "verse": 12
+   },
+   {
+    "book": "Dt",
+    "chapter": 27
    }
   ]
  },
@@ -1857,6 +1861,14 @@
     "chapter": 34,
     "verse": 11,
     "verse_end": 12
+   },
+   {
+    "book": "Nm",
+    "chapter": 21
+   },
+   {
+    "book": "Dt",
+    "chapter": 3
    }
   ]
  },

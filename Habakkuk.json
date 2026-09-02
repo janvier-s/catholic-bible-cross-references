@@ -148,6 +148,28 @@
  },
  {
   "chapter": 2,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 3
+   },
+   {
+    "book": "Rom",
+    "chapter": 1
+   },
+   {
+    "book": "Gal",
+    "chapter": 3
+   },
+   {
+    "book": "Heb",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
   "verse": 6,
   "targets": [
    {
@@ -186,6 +208,14 @@
     "book": "Na",
     "chapter": 3,
     "verse": 1
+   },
+   {
+    "book": "Ez",
+    "chapter": 24
+   },
+   {
+    "book": "Ez",
+    "chapter": 3
    }
   ]
  },
@@ -252,6 +282,10 @@
     "chapter": 44,
     "verse": 18,
     "verse_end": 19
+   },
+   {
+    "book": "Ps",
+    "chapter": 11
    }
   ]
  },

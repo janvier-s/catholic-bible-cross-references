@@ -48,6 +48,11 @@
     "book": "1Jn",
     "chapter": 2,
     "verse": 25
+   },
+   {
+    "book": "2Tim",
+    "chapter": 1,
+    "verse": 9
    }
   ]
  },
@@ -149,6 +154,17 @@
    {
     "book": "1Tim",
     "chapter": 1,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "1Tim",
+    "chapter": 3,
     "verse": 2
    }
   ]
@@ -276,6 +292,11 @@
     "chapter": 14,
     "verse": 14,
     "verse_end": 23
+   },
+   {
+    "book": "Rom",
+    "chapter": 14,
+    "verse": 20
    }
   ]
  },
@@ -391,6 +412,16 @@
     "book": "1Pt",
     "chapter": 2,
     "verse": 18
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 5
+   },
+   {
+    "book": "Col",
+    "chapter": 3,
+    "verse": 22
    }
   ]
  },
@@ -807,6 +838,10 @@
     "book": "Ti",
     "chapter": 1,
     "verse": 10
+   },
+   {
+    "book": "1Tim",
+    "chapter": 4
    }
   ]
  },

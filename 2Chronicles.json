@@ -44,6 +44,16 @@
  },
  {
   "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "1Chr",
+    "chapter": 13
+   }
+  ]
+ },
+ {
+  "chapter": 1,
   "verse": 5,
   "targets": [
    {
@@ -178,6 +188,10 @@
     "book": "1Kgs",
     "chapter": 5,
     "verse": 16
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 5
    }
   ]
  },
@@ -407,6 +421,20 @@
  },
  {
   "chapter": 3,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "2Sm",
+    "chapter": 24
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 6
+   }
+  ]
+ },
+ {
+  "chapter": 3,
   "verse": 3,
   "targets": [
    {
@@ -509,6 +537,16 @@
   ]
  },
  {
+  "chapter": 3,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 7
+   }
+  ]
+ },
+ {
   "chapter": 4,
   "verse": 1,
   "targets": [
@@ -529,6 +567,10 @@
     "chapter": 7,
     "verse": 23,
     "verse_end": 26
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 7
    }
   ]
  },
@@ -679,6 +721,16 @@
     "verse": 51,
     "chapter_end": 8,
     "verse_end": 13
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 7
    }
   ]
  },
@@ -1197,6 +1249,10 @@
     "chapter": 10,
     "verse": 1,
     "verse_end": 13
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 10
    }
   ]
  },
@@ -1356,6 +1412,16 @@
     "chapter": 11,
     "verse": 42,
     "verse_end": 48
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 12
    }
   ]
  },
@@ -1614,6 +1680,10 @@
     "book": "1Kgs",
     "chapter": 15,
     "verse": 7
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 15
    }
   ]
  },
@@ -1897,6 +1967,10 @@
     "chapter": 15,
     "verse": 16,
     "verse_end": 22
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 15
    }
   ]
  },
@@ -2256,6 +2330,10 @@
     "book": "Ps",
     "chapter": 136,
     "verse": 1
+   },
+   {
+    "book": "Ps",
+    "chapter": 136
    }
   ]
  },
@@ -2362,6 +2440,10 @@
     "book": "1Kgs",
     "chapter": 22,
     "verse": 50
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 8
    }
   ]
  },
@@ -2479,6 +2561,21 @@
  {
   "chapter": 22,
   "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 8,
+    "verse": 25
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 9
+   }
+  ]
+ },
+ {
+  "chapter": 22,
+  "verse": 1,
   "verse_end": 6,
   "targets": [
    {
@@ -2580,6 +2677,16 @@
     "chapter": 11,
     "verse": 4,
     "verse_end": 16
+   }
+  ]
+ },
+ {
+  "chapter": 23,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 11
    }
   ]
  },
@@ -2760,6 +2867,10 @@
     "book": "Mt",
     "chapter": 23,
     "verse": 35
+   },
+   {
+    "book": "Mt",
+    "chapter": 23
    }
   ]
  },
@@ -2857,6 +2968,16 @@
  {
   "chapter": 25,
   "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 14
+   }
+  ]
+ },
+ {
+  "chapter": 25,
+  "verse": 1,
   "verse_end": 4,
   "targets": [
    {
@@ -2892,6 +3013,10 @@
     "book": "Ez",
     "chapter": 18,
     "verse": 20
+   },
+   {
+    "book": "Dt",
+    "chapter": 24
    }
   ]
  },
@@ -2915,6 +3040,10 @@
     "chapter": 14,
     "verse": 8,
     "verse_end": 14
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 8
    }
   ]
  },
@@ -3180,6 +3309,16 @@
  {
   "chapter": 27,
   "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 15
+   }
+  ]
+ },
+ {
+  "chapter": 27,
+  "verse": 1,
   "verse_end": 3,
   "targets": [
    {
@@ -3223,6 +3362,16 @@
     "book": "2Kgs",
     "chapter": 15,
     "verse": 38
+   }
+  ]
+ },
+ {
+  "chapter": 28,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 16
    }
   ]
  },
@@ -3464,6 +3613,10 @@
     "chapter": 18,
     "verse": 1,
     "verse_end": 3
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 18
    }
   ]
  },
@@ -3604,6 +3757,10 @@
     "book": "1Kgs",
     "chapter": 8,
     "verse": 50
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 8
    }
   ]
  },
@@ -3769,6 +3926,14 @@
     "book": "2Kgs",
     "chapter": 18,
     "verse": 13
+   },
+   {
+    "book": "2Sm",
+    "chapter": 18
+   },
+   {
+    "book": "Is",
+    "chapter": 36
    }
   ]
  },
@@ -4109,6 +4274,16 @@
  {
   "chapter": 33,
   "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "chapter": 33,
+  "verse": 1,
   "verse_end": 9,
   "targets": [
    {
@@ -4238,6 +4413,10 @@
     "book": "2Kgs",
     "chapter": 22,
     "verse": 2
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 22
    }
   ]
  },
@@ -4297,6 +4476,16 @@
     "chapter": 23,
     "verse": 4,
     "verse_end": 20
+   }
+  ]
+ },
+ {
+  "chapter": 34,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 12
    }
   ]
  },
@@ -4911,6 +5100,10 @@
     "chapter": 1,
     "verse": 1,
     "verse_end": 3
+   },
+   {
+    "book": "Jer",
+    "chapter": 25
    }
   ]
  },

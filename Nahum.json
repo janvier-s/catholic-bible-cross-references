@@ -110,6 +110,14 @@
     "book": "Rom",
     "chapter": 10,
     "verse": 15
+   },
+   {
+    "book": "Is",
+    "chapter": 52
+   },
+   {
+    "book": "Rom",
+    "chapter": 10
    }
   ]
  },
@@ -149,6 +157,10 @@
     "chapter": 8,
     "verse": 7,
     "verse_end": 8
+   },
+   {
+    "book": "Is",
+    "chapter": 2
    }
   ]
  },
@@ -200,6 +212,14 @@
     "book": "Hb",
     "chapter": 2,
     "verse": 12
+   },
+   {
+    "book": "Ez",
+    "chapter": 24
+   },
+   {
+    "book": "Ez",
+    "chapter": 2
    }
   ]
  },
@@ -237,6 +257,10 @@
     "book": "Na",
     "chapter": 2,
     "verse": 14
+   },
+   {
+    "book": "Is",
+    "chapter": 47
    }
   ]
  },

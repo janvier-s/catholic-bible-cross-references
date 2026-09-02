@@ -70,6 +70,17 @@
  },
  {
   "chapter": 1,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 4,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 1,
   "verse": 8,
   "targets": [
    {
@@ -481,6 +492,11 @@
     "book": "1Thes",
     "chapter": 1,
     "verse": 8
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 18
    }
   ]
  },
@@ -598,6 +614,18 @@
     "book": "Eph",
     "chapter": 4,
     "verse": 28
+   },
+   {
+    "book": "Acts",
+    "chapter": 20
+   },
+   {
+    "book": "1Cor",
+    "chapter": 4
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2
    }
   ]
  },
@@ -619,6 +647,11 @@
     "book": "2Thes",
     "chapter": 3,
     "verse": 7
+   },
+   {
+    "book": "1Cor",
+    "chapter": 9,
+    "verse": 6
    }
   ]
  },

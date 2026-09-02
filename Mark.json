@@ -28,6 +28,11 @@
     "book": "Lk",
     "chapter": 7,
     "verse": 27
+   },
+   {
+    "book": "Is",
+    "chapter": 40,
+    "verse": 3
    }
   ]
  },
@@ -96,6 +101,15 @@
     "book": "Acts",
     "chapter": 13,
     "verse": 24
+   },
+   {
+    "book": "Mt",
+    "chapter": 3,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 3
    }
   ]
  },
@@ -233,6 +247,25 @@
  {
   "chapter": 1,
   "verse": 12,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 4,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 4
+   },
+   {
+    "book": "Lk",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
   "verse_end": 13,
   "targets": [
    {
@@ -269,6 +302,22 @@
     "chapter": 4,
     "verse": 14,
     "verse_end": 15
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 4,
+    "verse": 12
+   },
+   {
+    "book": "Lk",
+    "chapter": 4,
+    "verse": 14
    }
   ]
  },
@@ -317,6 +366,22 @@
     "chapter": 1,
     "verse": 35,
     "verse_end": 42
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 4,
+    "verse": 18
+   },
+   {
+    "book": "Lk",
+    "chapter": 5,
+    "verse": 2
    }
   ]
  },
@@ -378,6 +443,22 @@
  {
   "chapter": 1,
   "verse": 21,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 4,
+    "verse": 13
+   },
+   {
+    "book": "Lk",
+    "chapter": 4,
+    "verse": 31
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 21,
   "verse_end": 22,
   "targets": [
    {
@@ -422,6 +503,17 @@
  {
   "chapter": 1,
   "verse": 23,
+  "targets": [
+   {
+    "book": "Lk",
+    "chapter": 4,
+    "verse": 32
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 23,
   "verse_end": 28,
   "targets": [
    {
@@ -458,6 +550,22 @@
     "chapter": 4,
     "verse": 38,
     "verse_end": 39
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 29,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 8,
+    "verse": 14
+   },
+   {
+    "book": "Lk",
+    "chapter": 4,
+    "verse": 42
    }
   ]
  },
@@ -605,6 +713,22 @@
  {
   "chapter": 1,
   "verse": 40,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 8,
+    "verse": 2
+   },
+   {
+    "book": "Lk",
+    "chapter": 5,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 40,
   "verse_end": 44,
   "targets": [
    {
@@ -676,6 +800,11 @@
     "book": "Lev",
     "chapter": 13,
     "verse": 49
+   },
+   {
+    "book": "Lev",
+    "chapter": 14,
+    "verse": 3
    }
   ]
  },
@@ -694,6 +823,22 @@
     "chapter": 5,
     "verse": 17,
     "verse_end": 26
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 9,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 5,
+    "verse": 18
    }
   ]
  },
@@ -743,6 +888,11 @@
     "book": "Is",
     "chapter": 43,
     "verse": 25
+   },
+   {
+    "book": "Jb",
+    "chapter": 14,
+    "verse": 4
    }
   ]
  },
@@ -794,6 +944,16 @@
     "chapter": 5,
     "verse": 29,
     "verse_end": 32
+   },
+   {
+    "book": "Mt",
+    "chapter": 9,
+    "verse": 9
+   },
+   {
+    "book": "Lk",
+    "chapter": 5,
+    "verse": 27
    }
   ]
  },
@@ -842,6 +1002,22 @@
     "chapter": 5,
     "verse": 33,
     "verse_end": 39
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 9,
+    "verse": 13
+   },
+   {
+    "book": "Lk",
+    "chapter": 5,
+    "verse": 33
    }
   ]
  },
@@ -907,6 +1083,16 @@
     "book": "Dt",
     "chapter": 23,
     "verse": 25
+   },
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 6,
+    "verse": 1
    }
   ]
  },
@@ -971,6 +1157,16 @@
     "book": "2Sm",
     "chapter": 8,
     "verse": 17
+   },
+   {
+    "book": "1Sm",
+    "chapter": 21,
+    "verse": 6
+   },
+   {
+    "book": "Lev",
+    "chapter": 24,
+    "verse": 9
    }
   ]
  },
@@ -1015,6 +1211,22 @@
     "chapter": 6,
     "verse": 6,
     "verse_end": 11
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 9
+   },
+   {
+    "book": "Lk",
+    "chapter": 6,
+    "verse": 6
    }
   ]
  },
@@ -1217,6 +1429,16 @@
     "book": "Lk",
     "chapter": 6,
     "verse": 12
+   },
+   {
+    "book": "Mt",
+    "chapter": 10,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 1
    }
   ]
  },
@@ -1376,6 +1598,16 @@
     "book": "Mt",
     "chapter": 10,
     "verse": 25
+   },
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 24
+   },
+   {
+    "book": "Lk",
+    "chapter": 11,
+    "verse": 15
    }
   ]
  },
@@ -1478,6 +1710,16 @@
     "chapter": 8,
     "verse": 19,
     "verse_end": 21
+   },
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 46
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 19
    }
   ]
  },
@@ -1531,6 +1773,16 @@
     "book": "Lk",
     "chapter": 5,
     "verse": 1
+   },
+   {
+    "book": "Mt",
+    "chapter": 13,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 4
    }
   ]
  },
@@ -1856,6 +2108,11 @@
     "book": "Lk",
     "chapter": 19,
     "verse": 26
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 18
    }
   ]
  },
@@ -1918,6 +2175,22 @@
     "chapter": 13,
     "verse": 18,
     "verse_end": 19
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 30,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 13,
+    "verse": 31
+   },
+   {
+    "book": "Lk",
+    "chapter": 13,
+    "verse": 19
    }
   ]
  },
@@ -2010,6 +2283,22 @@
  {
   "chapter": 4,
   "verse": 35,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 8,
+    "verse": 23
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 35,
   "verse_end": 40,
   "targets": [
    {
@@ -2075,6 +2364,22 @@
     "chapter": 8,
     "verse": 26,
     "verse_end": 39
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 8,
+    "verse": 28
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 26
    }
   ]
  },
@@ -2175,6 +2480,16 @@
     "book": "Mk",
     "chapter": 2,
     "verse": 13
+   },
+   {
+    "book": "Mt",
+    "chapter": 9,
+    "verse": 18
+   },
+   {
+    "book": "Lk",
+    "chapter": 8,
+    "verse": 42
    }
   ]
  },
@@ -2392,6 +2707,22 @@
  {
   "chapter": 6,
   "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 13,
+    "verse": 54
+   },
+   {
+    "book": "Lk",
+    "chapter": 4,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 1,
   "verse_end": 6,
   "targets": [
    {
@@ -2518,6 +2849,11 @@
     "book": "Lk",
     "chapter": 10,
     "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 1
    }
   ]
  },
@@ -2615,6 +2951,22 @@
     "chapter": 9,
     "verse": 7,
     "verse_end": 9
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 14,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 7
    }
   ]
  },
@@ -2734,6 +3086,11 @@
     "book": "Lev",
     "chapter": 18,
     "verse": 16
+   },
+   {
+    "book": "Lev",
+    "chapter": 20,
+    "verse": 21
    }
   ]
  },
@@ -2871,6 +3228,20 @@
  {
   "chapter": 6,
   "verse": 32,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 14
+   },
+   {
+    "book": "Mt",
+    "chapter": 13
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 32,
   "verse_end": 44,
   "targets": [
    {
@@ -2901,6 +3272,27 @@
     "book": "Mt",
     "chapter": 9,
     "verse": 36
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 35,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 14,
+    "verse": 15
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 12
+   },
+   {
+    "book": "Jn",
+    "chapter": 6,
+    "verse": 5
    }
   ]
  },
@@ -2991,6 +3383,22 @@
  },
  {
   "chapter": 6,
+  "verse": 46,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 14,
+    "verse": 23
+   },
+   {
+    "book": "Jn",
+    "chapter": 6,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 6,
   "verse": 48,
   "targets": [
    {
@@ -3030,6 +3438,17 @@
     "book": "Mk",
     "chapter": 8,
     "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 53,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 14,
+    "verse": 34
    }
   ]
  },
@@ -3076,6 +3495,17 @@
     "book": "Mt",
     "chapter": 9,
     "verse": 20
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 15,
+    "verse": 1
    }
   ]
  },
@@ -3354,6 +3784,17 @@
  {
   "chapter": 7,
   "verse": 24,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 15,
+    "verse": 21
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 24,
   "verse_end": 30,
   "targets": [
    {
@@ -3463,6 +3904,17 @@
  {
   "chapter": 8,
   "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 15,
+    "verse": 32
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 1,
   "verse_end": 10,
   "targets": [
    {
@@ -3512,6 +3964,16 @@
     "chapter": 16,
     "verse": 1,
     "verse_end": 4
+   },
+   {
+    "book": "Mt",
+    "chapter": 15,
+    "verse": 39
+   },
+   {
+    "book": "Mt",
+    "chapter": 16,
+    "verse": 1
    }
   ]
  },
@@ -3701,6 +4163,11 @@
     "chapter": 6,
     "verse": 41,
     "verse_end": 44
+   },
+   {
+    "book": "Mk",
+    "chapter": 6,
+    "verse": 38
    }
   ]
  },
@@ -3713,6 +4180,11 @@
     "chapter": 8,
     "verse": 1,
     "verse_end": 10
+   },
+   {
+    "book": "Mk",
+    "chapter": 8,
+    "verse": 5
    }
   ]
  },
@@ -3809,6 +4281,22 @@
     "chapter": 9,
     "verse": 18,
     "verse_end": 21
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 27,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 16,
+    "verse": 13
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 18
    }
   ]
  },
@@ -4058,6 +4546,16 @@
     "book": "Lk",
     "chapter": 22,
     "verse": 18
+   },
+   {
+    "book": "Mt",
+    "chapter": 16,
+    "verse": 27
+   },
+   {
+    "book": "Mt",
+    "chapter": 17,
+    "verse": 1
    }
   ]
  },
@@ -4233,6 +4731,17 @@
  },
  {
   "chapter": 9,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Mal",
+    "chapter": 4,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 9,
   "verse": 11,
   "targets": [
    {
@@ -4307,6 +4816,16 @@
     "chapter": 9,
     "verse": 37,
     "verse_end": 42
+   },
+   {
+    "book": "Mt",
+    "chapter": 17,
+    "verse": 14
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 37
    }
   ]
  },
@@ -4396,6 +4915,16 @@
     "chapter": 9,
     "verse": 44,
     "verse_end": 45
+   },
+   {
+    "book": "Mt",
+    "chapter": 17,
+    "verse": 22
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 21
    }
   ]
  },
@@ -4475,6 +5004,16 @@
     "book": "Jn",
     "chapter": 12,
     "verse": 16
+   },
+   {
+    "book": "Mt",
+    "chapter": 18,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 46
    }
   ]
  },
@@ -4591,6 +5130,11 @@
     "book": "Jn",
     "chapter": 12,
     "verse": 44
+   },
+   {
+    "book": "Lk",
+    "chapter": 9,
+    "verse": 49
    }
   ]
  },
@@ -4770,6 +5314,11 @@
     "book": "Is",
     "chapter": 66,
     "verse": 24
+   },
+   {
+    "book": "Lev",
+    "chapter": 2,
+    "verse": 13
    }
   ]
  },
@@ -4841,6 +5390,11 @@
     "book": "Jn",
     "chapter": 11,
     "verse": 7
+   },
+   {
+    "book": "Mt",
+    "chapter": 19,
+    "verse": 1
    }
   ]
  },
@@ -4901,6 +5455,11 @@
     "chapter": 24,
     "verse": 1,
     "verse_end": 4
+   },
+   {
+    "book": "Dt",
+    "chapter": 24,
+    "verse": 1
    }
   ]
  },
@@ -4922,6 +5481,17 @@
     "book": "Gen",
     "chapter": 5,
     "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 2,
+    "verse": 24
    }
   ]
  },
@@ -4965,6 +5535,11 @@
     "book": "Lk",
     "chapter": 16,
     "verse": 18
+   },
+   {
+    "book": "1Cor",
+    "chapter": 7,
+    "verse": 11
    }
   ]
  },
@@ -5045,6 +5620,16 @@
     "book": "Lk",
     "chapter": 9,
     "verse": 47
+   },
+   {
+    "book": "Mt",
+    "chapter": 19,
+    "verse": 13
+   },
+   {
+    "book": "Lk",
+    "chapter": 18,
+    "verse": 15
    }
   ]
  },
@@ -5124,6 +5709,16 @@
     "book": "Mk",
     "chapter": 1,
     "verse": 40
+   },
+   {
+    "book": "Mt",
+    "chapter": 19,
+    "verse": 16
+   },
+   {
+    "book": "Lk",
+    "chapter": 18,
+    "verse": 18
    }
   ]
  },
@@ -5179,6 +5774,11 @@
     "chapter": 5,
     "verse": 16,
     "verse_end": 20
+   },
+   {
+    "book": "Ex",
+    "chapter": 20,
+    "verse": 13
    }
   ]
  },
@@ -5314,6 +5914,16 @@
     "book": "Mk",
     "chapter": 8,
     "verse": 31
+   },
+   {
+    "book": "Mt",
+    "chapter": 20,
+    "verse": 17
+   },
+   {
+    "book": "Lk",
+    "chapter": 18,
+    "verse": 31
    }
   ]
  },
@@ -5393,6 +6003,17 @@
     "chapter": 15,
     "verse": 26,
     "verse_end": 32
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 35,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 20,
+    "verse": 20
    }
   ]
  },
@@ -5483,6 +6104,22 @@
  {
   "chapter": 10,
   "verse": 42,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 20,
+    "verse": 25
+   },
+   {
+    "book": "Lk",
+    "chapter": 22,
+    "verse": 25
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 42,
   "verse_end": 45,
   "targets": [
    {
@@ -5530,6 +6167,22 @@
     "chapter": 2,
     "verse": 5,
     "verse_end": 6
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "verse": 46,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 20,
+    "verse": 29
+   },
+   {
+    "book": "Lk",
+    "chapter": 18,
+    "verse": 35
    }
   ]
  },
@@ -5615,6 +6268,27 @@
     "book": "Lk",
     "chapter": 17,
     "verse": 19
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 21,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 19,
+    "verse": 20
+   },
+   {
+    "book": "Jn",
+    "chapter": 12,
+    "verse": 15
    }
   ]
  },
@@ -5771,6 +6445,17 @@
  },
  {
   "chapter": 11,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 21,
+    "verse": 19
+   }
+  ]
+ },
+ {
+  "chapter": 11,
   "verse": 14,
   "targets": [
    {
@@ -5790,6 +6475,22 @@
     "chapter": 2,
     "verse": 14,
     "verse_end": 16
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 21,
+    "verse": 12
+   },
+   {
+    "book": "Lk",
+    "chapter": 19,
+    "verse": 45
    }
   ]
  },
@@ -5871,6 +6572,17 @@
     "chapter": 21,
     "verse": 20,
     "verse_end": 22
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 21,
+    "verse": 20
    }
   ]
  },
@@ -6019,6 +6731,25 @@
  {
   "chapter": 11,
   "verse": 27,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 21
+   },
+   {
+    "book": "Mt",
+    "chapter": 23
+   },
+   {
+    "book": "Lk",
+    "chapter": 20,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "verse": 27,
   "verse_end": 33,
   "targets": [
    {
@@ -6078,6 +6809,21 @@
     "book": "Jer",
     "chapter": 2,
     "verse": 21
+   },
+   {
+    "book": "Is",
+    "chapter": 5,
+    "verse": 1
+   },
+   {
+    "book": "Mt",
+    "chapter": 21,
+    "verse": 33
+   },
+   {
+    "book": "Lk",
+    "chapter": 20,
+    "verse": 9
    }
   ]
  },
@@ -6114,6 +6860,17 @@
     "book": "Mk",
     "chapter": 3,
     "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 118,
+    "verse": 22
    }
   ]
  },
@@ -6186,6 +6943,11 @@
     "book": "Lk",
     "chapter": 11,
     "verse": 54
+   },
+   {
+    "book": "Mt",
+    "chapter": 22,
+    "verse": 15
    }
   ]
  },
@@ -6258,6 +7020,21 @@
     "book": "Dt",
     "chapter": 25,
     "verse": 5
+   },
+   {
+    "book": "Mt",
+    "chapter": 22,
+    "verse": 23
+   },
+   {
+    "book": "Lk",
+    "chapter": 20,
+    "verse": 27
+   },
+   {
+    "book": "Acts",
+    "chapter": 23,
+    "verse": 6
    }
   ]
  },
@@ -6323,6 +7100,17 @@
  {
   "chapter": 12,
   "verse": 28,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 22,
+    "verse": 34
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "verse": 28,
   "verse_end": 34,
   "targets": [
    {
@@ -6359,6 +7147,11 @@
     "book": "Dt",
     "chapter": 6,
     "verse": 4
+   },
+   {
+    "book": "Dt",
+    "chapter": 6,
+    "verse": 5
    }
   ]
  },
@@ -6463,6 +7256,22 @@
     "chapter": 20,
     "verse": 41,
     "verse_end": 44
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "verse": 35,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 22,
+    "verse": 41
+   },
+   {
+    "book": "Lk",
+    "chapter": 20,
+    "verse": 41
    }
   ]
  },
@@ -6582,6 +7391,17 @@
  {
   "chapter": 12,
   "verse": 41,
+  "targets": [
+   {
+    "book": "Lk",
+    "chapter": 21,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "verse": 41,
   "verse_end": 44,
   "targets": [
    {
@@ -6612,6 +7432,22 @@
     "chapter": 21,
     "verse": 5,
     "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 13,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 24,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 21,
+    "verse": 5
    }
   ]
  },
@@ -6931,6 +7767,15 @@
     "book": "Dn",
     "chapter": 12,
     "verse": 11
+   },
+   {
+    "book": "Dn",
+    "chapter": 2
+   },
+   {
+    "book": "Dn",
+    "chapter": 2,
+    "verse": 4
    }
   ]
  },
@@ -7060,6 +7905,16 @@
     "book": "Jl",
     "chapter": 2,
     "verse": 10
+   },
+   {
+    "book": "Ez",
+    "chapter": 31,
+    "verse": 7
+   },
+   {
+    "book": "Jl",
+    "chapter": 3,
+    "verse": 15
    }
   ]
  },
@@ -7308,6 +8163,22 @@
  {
   "chapter": 14,
   "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 22,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 1,
   "verse_end": 2,
   "targets": [
    {
@@ -7357,6 +8228,22 @@
     "chapter": 12,
     "verse": 1,
     "verse_end": 8
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 6
+   },
+   {
+    "book": "Jn",
+    "chapter": 12,
+    "verse": 3
    }
   ]
  },
@@ -7439,6 +8326,22 @@
  {
   "chapter": 14,
   "verse": 10,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 17
+   },
+   {
+    "book": "Lk",
+    "chapter": 22,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 10,
   "verse_end": 11,
   "targets": [
    {
@@ -7470,6 +8373,22 @@
     "chapter": 22,
     "verse": 7,
     "verse_end": 13
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 17
+   },
+   {
+    "book": "Lk",
+    "chapter": 22,
+    "verse": 7
    }
   ]
  },
@@ -7535,6 +8454,17 @@
  {
   "chapter": 14,
   "verse": 17,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 13,
+    "verse": 21
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 17,
   "verse_end": 21,
   "targets": [
    {
@@ -7578,6 +8508,11 @@
     "chapter": 11,
     "verse": 23,
     "verse_end": 25
+   },
+   {
+    "book": "Ps",
+    "chapter": 41,
+    "verse": 10
    }
   ]
  },
@@ -7599,6 +8534,21 @@
     "book": "Lk",
     "chapter": 24,
     "verse": 30
+   },
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 26
+   },
+   {
+    "book": "Lk",
+    "chapter": 21,
+    "verse": 19
+   },
+   {
+    "book": "1Cor",
+    "chapter": 11,
+    "verse": 24
    }
   ]
  },
@@ -7931,6 +8881,27 @@
     "chapter": 18,
     "verse": 2,
     "verse_end": 11
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "verse": 43,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 47
+   },
+   {
+    "book": "Lk",
+    "chapter": 22,
+    "verse": 47
+   },
+   {
+    "book": "Jn",
+    "chapter": 18,
+    "verse": 3
    }
   ]
  },
@@ -8319,6 +9290,15 @@
     "book": "Lk",
     "chapter": 23,
     "verse": 1
+   },
+   {
+    "book": "Mt",
+    "chapter": 27,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 23
    }
   ]
  },
@@ -8441,6 +9421,17 @@
     "chapter": 19,
     "verse": 1,
     "verse_end": 3
+   }
+  ]
+ },
+ {
+  "chapter": 15,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 19,
+    "verse": 2
    }
   ]
  },
@@ -8633,6 +9624,11 @@
     "chapter": 23,
     "verse": 35,
     "verse_end": 43
+   },
+   {
+    "book": "Is",
+    "chapter": 53,
+    "verse": 12
    }
   ]
  },
@@ -8949,6 +9945,15 @@
     "book": "Jn",
     "chapter": 19,
     "verse": 39
+   },
+   {
+    "book": "Mt",
+    "chapter": 28,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 24
    }
   ]
  },
@@ -9046,6 +10051,11 @@
     "book": "Lk",
     "chapter": 8,
     "verse": 2
+   },
+   {
+    "book": "Jn",
+    "chapter": 20,
+    "verse": 16
    }
   ]
  },
@@ -9100,6 +10110,17 @@
  {
   "chapter": 16,
   "verse": 12,
+  "targets": [
+   {
+    "book": "Lk",
+    "chapter": 24,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 16,
+  "verse": 12,
   "verse_end": 14,
   "targets": [
    {
@@ -9129,6 +10150,11 @@
     "book": "Lk",
     "chapter": 24,
     "verse": 36
+   },
+   {
+    "book": "Jn",
+    "chapter": 20,
+    "verse": 26
    }
   ]
  },
@@ -9217,6 +10243,11 @@
     "chapter": 24,
     "verse": 50,
     "verse_end": 53
+   },
+   {
+    "book": "Lk",
+    "chapter": 24,
+    "verse": 51
    }
   ]
  },

@@ -4150,6 +4150,14 @@
     "book": "Ex",
     "chapter": 32,
     "verse": 12
+   },
+   {
+    "book": "Nm",
+    "chapter": 26
+   },
+   {
+    "book": "Ps",
+    "chapter": 106
    }
   ]
  },
@@ -7078,6 +7086,10 @@
     "book": "Ez",
     "chapter": 37,
     "verse": 24
+   },
+   {
+    "book": "Jn",
+    "chapter": 10
    }
   ]
  },
@@ -8400,6 +8412,16 @@
  },
  {
   "chapter": 40,
+  "verse": 32,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "chapter": 40,
   "verse": 35,
   "targets": [
    {
@@ -9043,6 +9065,17 @@
  },
  {
   "chapter": 44,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Lev",
+    "chapter": 10,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 44,
   "verse": 22,
   "targets": [
    {
@@ -9103,6 +9136,10 @@
     "chapter": 18,
     "verse": 1,
     "verse_end": 2
+   },
+   {
+    "book": "Dt",
+    "chapter": 18
    }
   ]
  },

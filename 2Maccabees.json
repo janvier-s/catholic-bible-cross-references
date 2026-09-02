@@ -180,6 +180,14 @@
     "chapter": 8,
     "verse": 10,
     "verse_end": 11
+   },
+   {
+    "book": "Ex",
+    "chapter": 40
+   },
+   {
+    "book": "1Kgs",
+    "chapter": 8
    }
   ]
  },
@@ -214,6 +222,11 @@
     "chapter": 10,
     "verse": 16,
     "verse_end": 20
+   },
+   {
+    "book": "Lev",
+    "chapter": 9,
+    "verse": 24
    }
   ]
  },
@@ -529,6 +542,17 @@
  },
  {
   "chapter": 5,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "2Mc",
+    "chapter": 3,
+    "verse": 23
+   }
+  ]
+ },
+ {
+  "chapter": 5,
   "verse": 21,
   "targets": [
    {
@@ -801,6 +825,11 @@
     "book": "Dt",
     "chapter": 32,
     "verse": 36
+   },
+   {
+    "book": "Dt",
+    "chapter": 32,
+    "verse": 43
    }
   ]
  },
@@ -1027,6 +1056,10 @@
     "chapter": 37,
     "verse": 36,
     "verse_end": 37
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 19
    }
   ]
  },
@@ -1483,6 +1516,10 @@
     "chapter": 6,
     "verse": 1,
     "verse_end": 21
+   },
+   {
+    "book": "Jos",
+    "chapter": 6
    }
   ]
  },
@@ -1866,6 +1903,16 @@
     "chapter": 7,
     "verse": 40,
     "verse_end": 42
+   }
+  ]
+ },
+ {
+  "chapter": 15,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 19
    }
   ]
  },

@@ -152,6 +152,22 @@
  },
  {
   "chapter": 2,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Wis",
+    "chapter": 3,
+    "verse": 32
+   },
+   {
+    "book": "Wis",
+    "chapter": 10,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 2,
   "verse": 16,
   "targets": [
    {
@@ -1733,6 +1749,17 @@
  },
  {
   "chapter": 14,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 14,
+    "verse": 20
+   }
+  ]
+ },
+ {
+  "chapter": 14,
   "verse": 20,
   "targets": [
    {
@@ -2153,6 +2180,11 @@
     "book": "Prv",
     "chapter": 14,
     "verse": 12
+   },
+   {
+    "book": "Prv",
+    "chapter": 14,
+    "verse": 2
    }
   ]
  },
@@ -3709,6 +3741,10 @@
     "book": "Rom",
     "chapter": 12,
     "verse": 20
+   },
+   {
+    "book": "Rom",
+    "chapter": 12
    }
   ]
  },

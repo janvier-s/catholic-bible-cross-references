@@ -221,6 +221,11 @@
     "book": "Eph",
     "chapter": 1,
     "verse": 21
+   },
+   {
+    "book": "Jn",
+    "chapter": 1,
+    "verse": 3
    }
   ]
  },
@@ -914,6 +919,11 @@
     "chapter": 4,
     "verse": 22,
     "verse_end": 24
+   },
+   {
+    "book": "Eph",
+    "chapter": 4,
+    "verse": 22
    }
   ]
  },
@@ -1136,6 +1146,17 @@
  },
  {
   "chapter": 3,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "1Pt",
+    "chapter": 3,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 3,
   "verse": 20,
   "targets": [
    {
@@ -1202,6 +1223,16 @@
     "book": "Rom",
     "chapter": 2,
     "verse": 11
+   },
+   {
+    "book": "Dt",
+    "chapter": 10,
+    "verse": 17
+   },
+   {
+    "book": "Gal",
+    "chapter": 2,
+    "verse": 6
    }
   ]
  },
@@ -1271,6 +1302,11 @@
     "book": "2Thes",
     "chapter": 3,
     "verse": 1
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 18
    }
   ]
  },
@@ -1288,6 +1324,11 @@
     "book": "Eph",
     "chapter": 5,
     "verse": 16
+   },
+   {
+    "book": "Eph",
+    "chapter": 5,
+    "verse": 15
    }
   ]
  },
@@ -1466,6 +1507,11 @@
     "chapter": 4,
     "verse": 10,
     "verse_end": 11
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 10
    }
   ]
  },
