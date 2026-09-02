@@ -1,6 +1,6 @@
 # Catholic Bible Cross References
 
-Cross references covering Genesis through Jeremiah. Each file maps source passages to related passages elsewhere in Scripture.
+Cross references extracted from the Parallel Notes section of a Catholic Bible. Each file maps source passages to related passages elsewhere in Scripture.
 
 ## Format
 
@@ -21,40 +21,85 @@ Each JSON file is an array of objects:
 
 ## Books Included
 
+### Old Testament
+
 | File | Book | References |
 |------|------|------------|
 | `genesis.json` | Genesis | 150 |
 | `exodus.json` | Exodus | 318 |
 | `leviticus.json` | Leviticus | 199 |
 | `numbers.json` | Numbers | 129 |
-| `deuteronomy.json` | Deuteronomy | 272 |
+| `deuteronomy.json` | Deuteronomy | 273 |
 | `joshua.json` | Joshua | 29 |
 | `judges.json` | Judges | 12 |
 | `ruth.json` | Ruth | 1 |
-| `1_samuel.json` | 1 Samuel | 18 |
-| `2_samuel.json` | 2 Samuel | 29 |
-| `1_kings.json` | 1 Kings | 49 |
-| `2_kings.json` | 2 Kings | 48 |
-| `1_chronicles.json` | 1 Chronicles | 61 |
-| `2_chronicles.json` | 2 Chronicles | 77 |
+| `1_samuel.json` | 1 Samuel | 21 |
+| `2_samuel.json` | 2 Samuel | 44 |
+| `1_kings.json` | 1 Kings | 51 |
+| `2_kings.json` | 2 Kings | 56 |
+| `1_chronicles.json` | 1 Chronicles | 72 |
+| `2_chronicles.json` | 2 Chronicles | 83 |
 | `ezra.json` | Ezra | 11 |
-| `nehemiah.json` | Nehemiah | 3 |
+| `nehemiah.json` | Nehemiah | 4 |
 | `esther.json` | Esther | 2 |
 | `job.json` | Job | 7 |
-| `the_psalms.json` | Psalms | 173 |
-| `the_proverbs.json` | Proverbs | 14 |
-| `the_prophet_isaiah.json` | Isaiah | 249 |
-| `jeremiah.json` | Jeremiah | 65 |
+| `psalms.json` | Psalms | 176 |
+| `proverbs.json` | Proverbs | 14 |
+| `ecclesiastes.json` | Ecclesiastes | 1 |
+| `isaiah.json` | Isaiah | 251 |
+| `jeremiah.json` | Jeremiah | 66 |
+| `ezekiel.json` | Ezekiel | 147 |
+| `daniel.json` | Daniel | 63 |
+| `hosea.json` | Hosea | 23 |
+| `joel.json` | Joel | 30 |
+| `amos.json` | Amos | 32 |
+| `obadiah.json` | Obadiah | 7 |
+| `jonah.json` | Jonah | 3 |
+| `micah.json` | Micah | 11 |
+| `nahum.json` | Nahum | 6 |
+| `habakkuk.json` | Habakkuk | 13 |
+| `zephaniah.json` | Zephaniah | 17 |
+| `haggai.json` | Haggai | 1 |
+| `zechariah.json` | Zechariah | 30 |
+| `malachi.json` | Malachi | 17 |
 
-**Total: 1,916 cross references across 22 books**
+### New Testament
+
+| File | Book | References |
+|------|------|------------|
+| `matthew.json` | Matthew | 1,309 |
+| `mark.json` | Mark | 584 |
+| `luke.json` | Luke | 108 |
+| `john.json` | John | 1,019 |
+| `acts.json` | Acts | 161 |
+| `romans.json` | Romans | 83 |
+| `1_corinthians.json` | 1 Corinthians | 415 |
+| `2_corinthians.json` | 2 Corinthians | 160 |
+| `galatians.json` | Galatians | 62 |
+| `ephesians.json` | Ephesians | 42 |
+| `philippians.json` | Philippians | 58 |
+| `colossians.json` | Colossians | 42 |
+| `1_thessalonians.json` | 1 Thessalonians | 141 |
+| `2_thessalonians.json` | 2 Thessalonians | 52 |
+| `1_timothy.json` | 1 Timothy | 10 |
+| `2_timothy.json` | 2 Timothy | 7 |
+| `titus.json` | Titus | 3 |
+| `philemon.json` | Philemon | 8 |
+| `hebrews.json` | Hebrews | 139 |
+| `james.json` | James | 19 |
+| `1_peter.json` | 1 Peter | 21 |
+| `2_peter.json` | 2 Peter | 22 |
+| `1_john.json` | 1 John | 87 |
+| `2_john.json` | 2 John | 6 |
+| `3_john.json` | 3 John | 4 |
+| `jude.json` | Jude | 7 |
+| `revelation.json` | Revelation | 17 |
+
+**Total: 7,392 cross references across 67 books**
 
 ## Reference Conventions
 
 - **Verse ranges** use an en-dash: `"Ex 1:1–4"`
 - **Multiple verses** are comma-separated: `"Gen 1:26, 27"`
-- **Targets point both directions** — OT references link to NT and vice versa, and OT books cross-reference each other
+- **Targets point both directions** — OT links to NT, NT links to OT, and books cross-reference each other
 - **Targets may be chapters** (e.g. `"Gen 5"`) or specific verses (e.g. `"Jn 1:1"`)
-
-## Scope
-
-Source passages cover Genesis through Jeremiah (Pentateuch, Historical Books, Wisdom Literature, and Major Prophets). Targets span the full canon — 1,220 OT-to-OT and 696 OT-to-New Testament connections.
