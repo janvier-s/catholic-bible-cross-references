@@ -242,5 +242,49 @@
   {
     "source": "1 Chron 29:23",
     "target": "1 Kings 2:12"
+  },
+  {
+    "source": "i",
+    "target": "18"
+  },
+  {
+    "source": "p",
+    "target": "1 Sam 8:2"
+  },
+  {
+    "source": "x",
+    "target": "2 Sam 23:8"
+  },
+  {
+    "source": "y",
+    "target": "2 Sam 23:12"
+  },
+  {
+    "source": "a",
+    "target": "2 Sam 23:19"
+  },
+  {
+    "source": "d",
+    "target": "2 Sam 23:25"
+  },
+  {
+    "source": "e",
+    "target": "2 Sam 23:32"
+  },
+  {
+    "source": "t",
+    "target": "2 Sam 8:6"
+  },
+  {
+    "source": "u",
+    "target": "1 Kings 11:5"
+  },
+  {
+    "source": "v",
+    "target": "2 Sam 12:31"
+  },
+  {
+    "source": "w",
+    "target": "2 Sam 12:31"
   }
 ]
