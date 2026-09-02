@@ -1,0 +1,145 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 8,
+    "verse": 32
+   },
+   {
+    "book": "3Jn",
+    "chapter": 1,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "3Jn",
+    "chapter": 1,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 13,
+    "verse": 34
+   },
+   {
+    "book": "Jn",
+    "chapter": 15,
+    "verse": 12
+   },
+   {
+    "book": "1Jn",
+    "chapter": 4,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 13,
+    "verse": 34
+   },
+   {
+    "book": "Jn",
+    "chapter": 14,
+    "verse": 15
+   },
+   {
+    "book": "1Jn",
+    "chapter": 5,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "1Jn",
+    "chapter": 2,
+    "verse": 22
+   },
+   {
+    "book": "1Jn",
+    "chapter": 4,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 8,
+    "verse": 31
+   },
+   {
+    "book": "1Jn",
+    "chapter": 2,
+    "verse": 23
+   },
+   {
+    "book": "1Jn",
+    "chapter": 4,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 17
+   },
+   {
+    "book": "2Thes",
+    "chapter": 3,
+    "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 15,
+    "verse": 11
+   },
+   {
+    "book": "1Jn",
+    "chapter": 1,
+    "verse": 4
+   },
+   {
+    "book": "3Jn",
+    "chapter": 1,
+    "verse": 13
+   }
+  ]
+ }
+]

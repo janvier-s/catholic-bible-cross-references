@@ -1,126 +1,126 @@
 # Catholic Bible Cross References
 
-Cross references extracted from two Catholic Bibles. Each file maps source passages to related passages elsewhere in Scripture.
-
-## Sources
-
-- **`/`** — Cross references from the Parallel Notes section (7,392 refs, 67 books)
-- **`/rnjb/`** — Cross references embedded in verse text from the Revised New Jerusalem Bible (2,729 refs, 66 books)
+Cross references covering the full 73-book Catholic canon, merged from three independent cross-reference apparatuses (one per source edition) and deduplicated into a single dataset. All verse loci are structured, integer-based data — no string parsing required.
 
 ## Format
 
-Each JSON file is an array of objects:
+Each JSON file is an array of reference groups, one per source passage:
 
 ```json
 [
-  { "source": "Gen 1:1", "target": "Jn 1:1" },
-  { "source": "Gen 1:26, 27", "target": "Gen 5:1" },
-  { "source": "Gen 1:26, 27", "target": "Mt 19:4" }
+  {
+    "chapter": 1,
+    "verse": 1,
+    "targets": [
+      { "book": "Jn", "chapter": 1, "verse": 1 }
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "verse_end": 3,
+    "targets": [
+      { "book": "Ex", "chapter": 20, "verse": 11 }
+    ]
+  }
 ]
 ```
 
-- **source** — the passage being referenced from
-- **target** — the related passage elsewhere in Scripture
+- **chapter / verse** — where the source passage begins. `verse` is omitted when the group refers to a whole chapter.
+- **verse_end** — present when the source passage is a verse range within the same chapter.
+- **chapter_end** — present when the source passage spans multiple chapters.
+- **targets** — the related passages elsewhere in Scripture, each shaped the same way (`book`, `chapter`, optional `verse` / `verse_end` / `chapter_end`).
+- Book codes are abbreviations (see table below); target passages may point to any book in the canon, including deuterocanonical books, in either direction (OT↔NT, book↔book).
 
-## Books Included (Parallel Notes)
+## Books Included
 
 ### Old Testament
 
-| File | Book | References |
-|------|------|------------|
-| `genesis.json` | Genesis | 150 |
-| `exodus.json` | Exodus | 318 |
-| `leviticus.json` | Leviticus | 199 |
-| `numbers.json` | Numbers | 129 |
-| `deuteronomy.json` | Deuteronomy | 273 |
-| `joshua.json` | Joshua | 29 |
-| `judges.json` | Judges | 12 |
-| `ruth.json` | Ruth | 1 |
-| `1_samuel.json` | 1 Samuel | 21 |
-| `2_samuel.json` | 2 Samuel | 44 |
-| `1_kings.json` | 1 Kings | 51 |
-| `2_kings.json` | 2 Kings | 56 |
-| `1_chronicles.json` | 1 Chronicles | 72 |
-| `2_chronicles.json` | 2 Chronicles | 83 |
-| `ezra.json` | Ezra | 11 |
-| `nehemiah.json` | Nehemiah | 4 |
-| `esther.json` | Esther | 2 |
-| `job.json` | Job | 7 |
-| `psalms.json` | Psalms | 176 |
-| `proverbs.json` | Proverbs | 14 |
-| `ecclesiastes.json` | Ecclesiastes | 1 |
-| `isaiah.json` | Isaiah | 251 |
-| `jeremiah.json` | Jeremiah | 66 |
-| `ezekiel.json` | Ezekiel | 147 |
-| `daniel.json` | Daniel | 63 |
-| `hosea.json` | Hosea | 23 |
-| `joel.json` | Joel | 30 |
-| `amos.json` | Amos | 32 |
-| `obadiah.json` | Obadiah | 7 |
-| `jonah.json` | Jonah | 3 |
-| `micah.json` | Micah | 11 |
-| `nahum.json` | Nahum | 6 |
-| `habakkuk.json` | Habakkuk | 13 |
-| `zephaniah.json` | Zephaniah | 17 |
-| `haggai.json` | Haggai | 1 |
-| `zechariah.json` | Zechariah | 30 |
-| `malachi.json` | Malachi | 17 |
+| File | Book | Code | Groups | Targets |
+|------|------|------|--------|---------|
+| `Genesis.json` | Genesis | Gen | 435 | 977 |
+| `Exodus.json` | Exodus | Ex | 422 | 922 |
+| `Leviticus.json` | Leviticus | Lev | 386 | 1,056 |
+| `Numbers.json` | Numbers | Nm | 313 | 574 |
+| `Deuteronomy.json` | Deuteronomy | Dt | 646 | 2,444 |
+| `Joshua.json` | Joshua | Jos | 252 | 515 |
+| `Judges.json` | Judges | Jgs | 206 | 495 |
+| `Ruth.json` | Ruth | Ru | 24 | 45 |
+| `1Samuel.json` | 1 Samuel | 1Sm | 316 | 773 |
+| `2Samuel.json` | 2 Samuel | 2Sm | 248 | 461 |
+| `1Kings.json` | 1 Kings | 1Kgs | 176 | 286 |
+| `2Kings.json` | 2 Kings | 2Kgs | 238 | 374 |
+| `1Chronicles.json` | 1 Chronicles | 1Chr | 386 | 910 |
+| `2Chronicles.json` | 2 Chronicles | 2Chr | 339 | 507 |
+| `Ezra.json` | Ezra | Ezr | 46 | 93 |
+| `Nehemiah.json` | Nehemiah | Neh | 86 | 146 |
+| `Tobit.json` | Tobit | Tb | 69 | 193 |
+| `Judith.json` | Judith | Jdt | 122 | 455 |
+| `Esther.json` | Esther | Est | 56 | 100 |
+| `1Maccabees.json` | 1 Maccabees | 1Mc | 154 | 251 |
+| `2Maccabees.json` | 2 Maccabees | 2Mc | 122 | 218 |
+| `Job.json` | Job | Jb | 207 | 386 |
+| `Psalms.json` | Psalms | Ps | 1,296 | 3,134 |
+| `Proverbs.json` | Proverbs | Prv | 274 | 527 |
+| `Ecclesiastes.json` | Ecclesiastes | Ecc | 64 | 130 |
+| `SongOfSongs.json` | Song of Songs | Sg | 40 | 58 |
+| `Wisdom.json` | Wisdom | Wis | 307 | 755 |
+| `Sirach.json` | Sirach | Sir | 396 | 816 |
+| `Isaiah.json` | Isaiah | Is | 765 | 1,728 |
+| `Jeremiah.json` | Jeremiah | Jer | 790 | 1,502 |
+| `Lamentations.json` | Lamentations | Lam | 78 | 149 |
+| `Baruch.json` | Baruch | Bar | 101 | 199 |
+| `Ezekiel.json` | Ezekiel | Ez | 621 | 1,148 |
+| `Daniel.json` | Daniel | Dn | 72 | 158 |
+| `Hosea.json` | Hosea | Hos | 123 | 310 |
+| `Joel.json` | Joel | Jl | 49 | 142 |
+| `Amos.json` | Amos | Am | 80 | 180 |
+| `Obadiah.json` | Obadiah | Ob | 12 | 24 |
+| `Jonah.json` | Jonah | Jon | 19 | 36 |
+| `Micah.json` | Micah | Mi | 46 | 93 |
+| `Nahum.json` | Nahum | Na | 18 | 33 |
+| `Habakkuk.json` | Habakkuk | Hb | 24 | 40 |
+| `Zephaniah.json` | Zephaniah | Zep | 32 | 65 |
+| `Haggai.json` | Haggai | Hg | 15 | 20 |
+| `Zechariah.json` | Zechariah | Zec | 109 | 254 |
+| `Malachi.json` | Malachi | Mal | 34 | 107 |
 
 ### New Testament
 
-| File | Book | References |
-|------|------|------------|
-| `matthew.json` | Matthew | 1,309 |
-| `mark.json` | Mark | 584 |
-| `luke.json` | Luke | 108 |
-| `john.json` | John | 1,019 |
-| `acts.json` | Acts | 161 |
-| `romans.json` | Romans | 83 |
-| `1_corinthians.json` | 1 Corinthians | 415 |
-| `2_corinthians.json` | 2 Corinthians | 160 |
-| `galatians.json` | Galatians | 62 |
-| `ephesians.json` | Ephesians | 42 |
-| `philippians.json` | Philippians | 58 |
-| `colossians.json` | Colossians | 42 |
-| `1_thessalonians.json` | 1 Thessalonians | 141 |
-| `2_thessalonians.json` | 2 Thessalonians | 52 |
-| `1_timothy.json` | 1 Timothy | 10 |
-| `2_timothy.json` | 2 Timothy | 7 |
-| `titus.json` | Titus | 3 |
-| `philemon.json` | Philemon | 8 |
-| `hebrews.json` | Hebrews | 139 |
-| `james.json` | James | 19 |
-| `1_peter.json` | 1 Peter | 21 |
-| `2_peter.json` | 2 Peter | 22 |
-| `1_john.json` | 1 John | 87 |
-| `2_john.json` | 2 John | 6 |
-| `3_john.json` | 3 John | 4 |
-| `jude.json` | Jude | 7 |
-| `revelation.json` | Revelation | 17 |
+| File | Book | Code | Groups | Targets |
+|------|------|------|--------|---------|
+| `Matthew.json` | Matthew | Mt | 794 | 2,202 |
+| `Mark.json` | Mark | Mk | 466 | 1,141 |
+| `Luke.json` | Luke | Lk | 881 | 2,519 |
+| `John.json` | John | Jn | 645 | 2,165 |
+| `Acts.json` | Acts | Acts | 410 | 971 |
+| `Romans.json` | Romans | Rom | 383 | 1,312 |
+| `1Corinthians.json` | 1 Corinthians | 1Cor | 270 | 735 |
+| `2Corinthians.json` | 2 Corinthians | 2Cor | 155 | 379 |
+| `Galatians.json` | Galatians | Gal | 123 | 343 |
+| `Ephesians.json` | Ephesians | Eph | 134 | 314 |
+| `Philippians.json` | Philippians | Phil | 81 | 270 |
+| `Colossians.json` | Colossians | Col | 76 | 200 |
+| `1Thessalonians.json` | 1 Thessalonians | 1Thes | 70 | 226 |
+| `2Thessalonians.json` | 2 Thessalonians | 2Thes | 38 | 101 |
+| `1Timothy.json` | 1 Timothy | 1Tim | 71 | 172 |
+| `2Timothy.json` | 2 Timothy | 2Tim | 68 | 182 |
+| `Titus.json` | Titus | Ti | 30 | 153 |
+| `Philemon.json` | Philemon | Phlm | 17 | 45 |
+| `Hebrews.json` | Hebrews | Heb | 232 | 657 |
+| `James.json` | James | Jas | 60 | 135 |
+| `1Peter.json` | 1 Peter | 1Pt | 70 | 138 |
+| `2Peter.json` | 2 Peter | 2Pt | 48 | 107 |
+| `1John.json` | 1 John | 1Jn | 84 | 203 |
+| `2John.json` | 2 John | 2Jn | 8 | 19 |
+| `3John.json` | 3 John | 3Jn | 10 | 29 |
+| `Jude.json` | Jude | Jd | 23 | 66 |
+| `Revelation.json` | Revelation | Rev | 269 | 667 |
 
-**Total (Parallel Notes): 7,392 cross references across 67 books**
+**Total: 16,130 reference groups / 39,240 targets across all 73 books.**
 
-## Books Included (RNJB)
+## Notes
 
-The RNJB extraction includes additional deuterocanonical books:
-
-| File | Book | References |
-|------|------|------------|
-| `tobit.json` | Tobit | 23 |
-| `judith.json` | Judith | 13 |
-| `1_maccabees.json` | 1 Maccabees | 26 |
-| `2_maccabees.json` | 2 Maccabees | 16 |
-| `wisdom.json` | Wisdom | 52 |
-| `sirach.json` | Sirach | 3 |
-| `baruch.json` | Baruch | 16 |
-| `lamentations.json` | Lamentations | 6 |
-
-**Total (RNJB): 2,729 cross references across 66 books**
-
-## Reference Conventions
-
-- **Verse ranges** use an en-dash: `"Ex 1:1–4"`
-- **Multiple verses** are comma-separated: `"Gen 1:26, 27"`
-- **Targets point both directions** — OT links to NT, NT links to OT, and books cross-reference each other
-- **Targets may be chapters** (e.g. `"Gen 5"`) or specific verses (e.g. `"Jn 1:1"`)
-- **RNJB references** include verse suffixes from the text (e.g. `"Mark 10:6a"`, `"Hebrews 4:1a"`)
+- Data was extracted from the cross-reference apparatuses of three published Catholic/ecumenical Bible editions, normalized to a single book-code and locus scheme, merged, and deduplicated (a target appearing in more than one source is kept once).
+- A handful of loci are preserved exactly as printed in their source even though they look like typos (e.g. a verse range where the end verse is lower than the start) — these are not extraction bugs, just faithfully reproduced print errors.
+- Book codes follow standard scholarly abbreviations (e.g. `1Sm` = 1 Samuel, `Sg` = Song of Songs, `Ti` = Titus).

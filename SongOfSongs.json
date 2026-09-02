@@ -1,0 +1,543 @@
+[
+ {
+  "chapter": 1,
+  "verse": 2,
+  "verse_end": 3,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 1
+   },
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 1,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 5,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 5
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 4
+   },
+   {
+    "book": "Sg",
+    "chapter": 5,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 3
+   },
+   {
+    "book": "Sg",
+    "chapter": 7,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 6
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 1,
+  "verse_end": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 5,
+    "verse": 2,
+    "verse_end": 8
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 7
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 10
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 1,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 1,
+  "verse_end": 3,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 5,
+    "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 7,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 7,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 1,
+    "verse": 2,
+    "verse_end": 3
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 2
+   },
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 1,
+    "verse_end": 2
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 7
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 12
+   },
+   {
+    "book": "Sg",
+    "chapter": 5,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 16
+   },
+   {
+    "book": "Sg",
+    "chapter": 7,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 6,
+  "verse_end": 7,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 1,
+    "verse_end": 3
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 6
+   },
+   {
+    "book": "Sg",
+    "chapter": 8,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 12,
+    "chapter_end": 5,
+    "verse_end": 1
+   },
+   {
+    "book": "Sg",
+    "chapter": 7,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 16
+   },
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 7
+   },
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 3,
+    "verse": 6
+   },
+   {
+    "book": "Sg",
+    "chapter": 6,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Prv",
+    "chapter": 6,
+    "verse": 31
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 9
+   },
+   {
+    "book": "Sg",
+    "chapter": 2,
+    "verse": 17
+   },
+   {
+    "book": "Sg",
+    "chapter": 4,
+    "verse": 6
+   }
+  ]
+ }
+]

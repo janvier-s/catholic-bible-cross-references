@@ -1,0 +1,1886 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "2Cor",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "1Thes",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "Phlm",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "1Tim",
+    "chapter": 3,
+    "verse": 1,
+    "verse_end": 13
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 1
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 12,
+    "verse_end": 40
+   },
+   {
+    "book": "Gal",
+    "chapter": 1,
+    "verse": 10
+   },
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "2Thes",
+    "chapter": 1,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 7
+   },
+   {
+    "book": "Gal",
+    "chapter": 1,
+    "verse": 3
+   },
+   {
+    "book": "Phlm",
+    "chapter": 1,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 8
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 4
+   },
+   {
+    "book": "1Thes",
+    "chapter": 1,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 2,
+    "verse": 13
+   },
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 10
+   },
+   {
+    "book": "Phil",
+    "chapter": 2,
+    "verse": 16
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 21,
+    "verse": 33
+   },
+   {
+    "book": "2Cor",
+    "chapter": 7,
+    "verse": 3
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 20
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 9
+   },
+   {
+    "book": "2Cor",
+    "chapter": 1,
+    "verse": 23
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 3,
+    "verse": 14,
+    "verse_end": 19
+   },
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 9,
+    "verse_end": 10
+   },
+   {
+    "book": "Phlm",
+    "chapter": 1,
+    "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 2,
+    "verse": 18
+   },
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 2
+   },
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 6
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 15,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Lk",
+    "chapter": 21,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
+  "verse_end": 13,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 3,
+    "verse": 1
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 20
+   },
+   {
+    "book": "2Tim",
+    "chapter": 2,
+    "verse": 9
+   },
+   {
+    "book": "Phlm",
+    "chapter": 1,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 22
+   },
+   {
+    "book": "Acts",
+    "chapter": 28,
+    "verse": 30
+   },
+   {
+    "book": "2Tim",
+    "chapter": 2,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 13,
+    "verse": 16
+   },
+   {
+    "book": "2Cor",
+    "chapter": 1,
+    "verse": 11
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 6,
+    "verse": 20
+   },
+   {
+    "book": "1Pt",
+    "chapter": 4,
+    "verse": 16
+   },
+   {
+    "book": "Rom",
+    "chapter": 14,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Gal",
+    "chapter": 2,
+    "verse": 20
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 1,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 23,
+  "targets": [
+   {
+    "book": "2Cor",
+    "chapter": 5,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 27,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 4,
+    "verse": 1
+   },
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 10
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 12
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 28,
+  "targets": [
+   {
+    "book": "2Thes",
+    "chapter": 1,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 29,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 10
+   },
+   {
+    "book": "Mt",
+    "chapter": 10,
+    "verse": 38
+   },
+   {
+    "book": "Mk",
+    "chapter": 8,
+    "verse": 34
+   },
+   {
+    "book": "Acts",
+    "chapter": 5,
+    "verse": 41
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 19,
+    "verse_end": 40
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 30,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 13
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 22,
+    "verse_end": 24
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 19,
+    "verse_end": 40
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "2Cor",
+    "chapter": 13,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 15,
+    "verse": 5
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 3
+   },
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 10
+   },
+   {
+    "book": "Gal",
+    "chapter": 5,
+    "verse": 26
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 3,
+  "verse_end": 4,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 10
+   },
+   {
+    "book": "Rom",
+    "chapter": 15,
+    "verse": 1,
+    "verse_end": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 10,
+    "verse": 24
+   },
+   {
+    "book": "1Cor",
+    "chapter": 10,
+    "verse": 33
+   },
+   {
+    "book": "1Cor",
+    "chapter": 13,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 5,
+  "verse_end": 8,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 11,
+    "verse": 29
+   },
+   {
+    "book": "Mt",
+    "chapter": 20,
+    "verse": 28
+   },
+   {
+    "book": "Jn",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "2Cor",
+    "chapter": 8,
+    "verse": 9
+   },
+   {
+    "book": "Heb",
+    "chapter": 5,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 1,
+    "verse": 1,
+    "verse_end": 2
+   },
+   {
+    "book": "Jn",
+    "chapter": 17,
+    "verse": 5
+   },
+   {
+    "book": "Col",
+    "chapter": 2,
+    "verse": 9
+   },
+   {
+    "book": "Heb",
+    "chapter": 1,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 53,
+    "verse": 3
+   },
+   {
+    "book": "Is",
+    "chapter": 53,
+    "verse": 11
+   },
+   {
+    "book": "Jn",
+    "chapter": 1,
+    "verse": 14
+   },
+   {
+    "book": "Rom",
+    "chapter": 8,
+    "verse": 3
+   },
+   {
+    "book": "2Cor",
+    "chapter": 8,
+    "verse": 9
+   },
+   {
+    "book": "Gal",
+    "chapter": 4,
+    "verse": 4
+   },
+   {
+    "book": "Heb",
+    "chapter": 2,
+    "verse": 14
+   },
+   {
+    "book": "Heb",
+    "chapter": 2,
+    "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 26,
+    "verse": 39
+   },
+   {
+    "book": "Jn",
+    "chapter": 10,
+    "verse": 17
+   },
+   {
+    "book": "Heb",
+    "chapter": 5,
+    "verse": 8
+   },
+   {
+    "book": "Heb",
+    "chapter": 12,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 2,
+    "verse": 33
+   },
+   {
+    "book": "Mt",
+    "chapter": 23,
+    "verse": 12
+   },
+   {
+    "book": "Eph",
+    "chapter": 1,
+    "verse": 20,
+    "verse_end": 21
+   },
+   {
+    "book": "Heb",
+    "chapter": 1,
+    "verse": 3,
+    "verse_end": 4
+   },
+   {
+    "book": "Jn",
+    "chapter": 3,
+    "verse": 14
+   },
+   {
+    "book": "Jn",
+    "chapter": 8,
+    "verse": 28
+   },
+   {
+    "book": "Jn",
+    "chapter": 12,
+    "verse": 32,
+    "verse_end": 34
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 9,
+  "verse_end": 11,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 10,
+    "verse": 9
+   },
+   {
+    "book": "Rom",
+    "chapter": 14,
+    "verse": 9
+   },
+   {
+    "book": "Eph",
+    "chapter": 1,
+    "verse": 20,
+    "verse_end": 21
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 45,
+    "verse": 23
+   },
+   {
+    "book": "Jn",
+    "chapter": 5,
+    "verse": 23
+   },
+   {
+    "book": "Rom",
+    "chapter": 14,
+    "verse": 11
+   },
+   {
+    "book": "Rev",
+    "chapter": 5,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 2,
+    "verse": 36
+   },
+   {
+    "book": "Rom",
+    "chapter": 10,
+    "verse": 9
+   },
+   {
+    "book": "1Cor",
+    "chapter": 12,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 2,
+    "verse": 11
+   },
+   {
+    "book": "1Cor",
+    "chapter": 2,
+    "verse": 3
+   },
+   {
+    "book": "2Cor",
+    "chapter": 7,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 6
+   },
+   {
+    "book": "1Cor",
+    "chapter": 12,
+    "verse": 6
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15,
+    "verse": 10
+   },
+   {
+    "book": "2Cor",
+    "chapter": 3,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 10,
+    "verse": 10
+   },
+   {
+    "book": "1Pt",
+    "chapter": 4,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 3,
+    "verse": 13
+   },
+   {
+    "book": "Dt",
+    "chapter": 32,
+    "verse": 5
+   },
+   {
+    "book": "Mt",
+    "chapter": 10,
+    "verse": 16
+   },
+   {
+    "book": "Acts",
+    "chapter": 2,
+    "verse": 40
+   },
+   {
+    "book": "Dn",
+    "chapter": 12,
+    "verse": 3
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 14
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 16
+   },
+   {
+    "book": "Eph",
+    "chapter": 5,
+    "verse": 8
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 45
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 48
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 19
+   },
+   {
+    "book": "Is",
+    "chapter": 49,
+    "verse": 4
+   },
+   {
+    "book": "Is",
+    "chapter": 65,
+    "verse": 23
+   },
+   {
+    "book": "Gal",
+    "chapter": 2,
+    "verse": 2
+   },
+   {
+    "book": "Gal",
+    "chapter": 5,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 15,
+    "verse": 16
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 3,
+    "verse": 1
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 4
+   },
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 16,
+    "verse": 1,
+    "verse_end": 3
+   },
+   {
+    "book": "Acts",
+    "chapter": 17,
+    "verse": 14,
+    "verse_end": 15
+   },
+   {
+    "book": "1Cor",
+    "chapter": 4,
+    "verse": 17
+   },
+   {
+    "book": "1Cor",
+    "chapter": 16,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 13,
+    "verse": 5
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 25,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 10,
+    "verse_end": 11
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 15,
+    "verse_end": 16
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 29,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 16,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 2,
+    "verse": 18
+   },
+   {
+    "book": "Phil",
+    "chapter": 4,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 22,
+    "verse": 17
+   },
+   {
+    "book": "Ps",
+    "chapter": 22,
+    "verse": 21
+   },
+   {
+    "book": "Rev",
+    "chapter": 22,
+    "verse": 15
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 13
+   },
+   {
+    "book": "Gal",
+    "chapter": 5,
+    "verse": 6
+   },
+   {
+    "book": "Gal",
+    "chapter": 5,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 2,
+    "verse": 28,
+    "verse_end": 29
+   },
+   {
+    "book": "Col",
+    "chapter": 2,
+    "verse": 11
+   },
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 14,
+    "verse_end": 15
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 18
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 21,
+    "verse_end": 23
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 4,
+  "verse_end": 7,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": 3
+   },
+   {
+    "book": "Acts",
+    "chapter": 22,
+    "verse": 3,
+    "verse_end": 21
+   },
+   {
+    "book": "Acts",
+    "chapter": 23,
+    "verse": 6
+   },
+   {
+    "book": "Acts",
+    "chapter": 26,
+    "verse": 4,
+    "verse_end": 23
+   },
+   {
+    "book": "Rom",
+    "chapter": 11,
+    "verse": 1
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 18,
+    "verse_end": 31
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Lk",
+    "chapter": 1,
+    "verse": 59
+   },
+   {
+    "book": "Lk",
+    "chapter": 2,
+    "verse": 21
+   },
+   {
+    "book": "Acts",
+    "chapter": 22,
+    "verse": 3
+   },
+   {
+    "book": "Acts",
+    "chapter": 23,
+    "verse": 6
+   },
+   {
+    "book": "Acts",
+    "chapter": 26,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 8,
+    "verse": 3
+   },
+   {
+    "book": "Acts",
+    "chapter": 22,
+    "verse": 4
+   },
+   {
+    "book": "Acts",
+    "chapter": 26,
+    "verse": 9,
+    "verse_end": 11
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 13,
+    "verse": 44
+   },
+   {
+    "book": "Mt",
+    "chapter": 13,
+    "verse": 46
+   },
+   {
+    "book": "Lk",
+    "chapter": 14,
+    "verse": 33
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 3,
+    "verse": 21,
+    "verse_end": 22
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 6,
+    "verse": 3,
+    "verse_end": 5
+   },
+   {
+    "book": "Rom",
+    "chapter": 8,
+    "verse": 17
+   },
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 11,
+    "verse": 23,
+    "verse_end": 26
+   },
+   {
+    "book": "Acts",
+    "chapter": 4,
+    "verse": 2
+   },
+   {
+    "book": "Rev",
+    "chapter": 20,
+    "verse": 5,
+    "verse_end": 6
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "1Tim",
+    "chapter": 6,
+    "verse": 12
+   },
+   {
+    "book": "1Tim",
+    "chapter": 6,
+    "verse": 19
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 9,
+    "verse": 24,
+    "verse_end": 25
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 4,
+    "verse": 16
+   },
+   {
+    "book": "1Cor",
+    "chapter": 11,
+    "verse": 1
+   },
+   {
+    "book": "1Thes",
+    "chapter": 1,
+    "verse": 7
+   },
+   {
+    "book": "1Pt",
+    "chapter": 5,
+    "verse": 3
+   },
+   {
+    "book": "2Cor",
+    "chapter": 1,
+    "verse": 15
+   },
+   {
+    "book": "1Cor",
+    "chapter": 4,
+    "verse": 15,
+    "verse_end": 17
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 17
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 23
+   },
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 8,
+    "verse": 5,
+    "verse_end": 6
+   },
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Eph",
+    "chapter": 2,
+    "verse": 6
+   },
+   {
+    "book": "Eph",
+    "chapter": 2,
+    "verse": 19
+   },
+   {
+    "book": "Col",
+    "chapter": 3,
+    "verse": 1,
+    "verse_end": 3
+   },
+   {
+    "book": "Heb",
+    "chapter": 12,
+    "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 8,
+    "verse": 23
+   },
+   {
+    "book": "Rom",
+    "chapter": 8,
+    "verse": 29
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15,
+    "verse": 42,
+    "verse_end": 57
+   },
+   {
+    "book": "2Cor",
+    "chapter": 3,
+    "verse": 18
+   },
+   {
+    "book": "2Cor",
+    "chapter": 5,
+    "verse": 1,
+    "verse_end": 5
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15,
+    "verse": 27,
+    "verse_end": 28
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15,
+    "verse": 35,
+    "verse_end": 58
+   },
+   {
+    "book": "Col",
+    "chapter": 3,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 19,
+    "verse_end": 20
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Ex",
+    "chapter": 32,
+    "verse": 32,
+    "verse_end": 33
+   },
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 29
+   },
+   {
+    "book": "Dn",
+    "chapter": 12,
+    "verse": 1
+   },
+   {
+    "book": "Lk",
+    "chapter": 10,
+    "verse": 20
+   },
+   {
+    "book": "Rev",
+    "chapter": 3,
+    "verse": 5
+   },
+   {
+    "book": "Rev",
+    "chapter": 13,
+    "verse": 8
+   },
+   {
+    "book": "Rev",
+    "chapter": 17,
+    "verse": 8
+   },
+   {
+    "book": "Rev",
+    "chapter": 20,
+    "verse": 12
+   },
+   {
+    "book": "Rev",
+    "chapter": 20,
+    "verse": 15
+   },
+   {
+    "book": "Rev",
+    "chapter": 21,
+    "verse": 27
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 2,
+    "verse": 18
+   },
+   {
+    "book": "Phil",
+    "chapter": 3,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Ti",
+    "chapter": 3,
+    "verse": 2
+   },
+   {
+    "book": "Ps",
+    "chapter": 145,
+    "verse": 18
+   },
+   {
+    "book": "Heb",
+    "chapter": 10,
+    "verse": 37
+   },
+   {
+    "book": "Jas",
+    "chapter": 5,
+    "verse": 8,
+    "verse_end": 9
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 6,
+    "verse": 25,
+    "verse_end": 34
+   },
+   {
+    "book": "1Pt",
+    "chapter": 5,
+    "verse": 7
+   },
+   {
+    "book": "Col",
+    "chapter": 4,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 14,
+    "verse": 27
+   },
+   {
+    "book": "Col",
+    "chapter": 3,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 4,
+    "verse": 1
+   },
+   {
+    "book": "Rom",
+    "chapter": 15,
+    "verse": 33
+   },
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 20
+   },
+   {
+    "book": "1Cor",
+    "chapter": 14,
+    "verse": 33
+   },
+   {
+    "book": "1Thes",
+    "chapter": 5,
+    "verse": 23
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 18
+   },
+   {
+    "book": "Phil",
+    "chapter": 2,
+    "verse": 25
+   },
+   {
+    "book": "1Cor",
+    "chapter": 9,
+    "verse": 11
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 11,
+  "verse_end": 12,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 4,
+    "verse": 11
+   },
+   {
+    "book": "2Cor",
+    "chapter": 6,
+    "verse": 10
+   },
+   {
+    "book": "2Cor",
+    "chapter": 11,
+    "verse": 27
+   },
+   {
+    "book": "2Cor",
+    "chapter": 12,
+    "verse": 9,
+    "verse_end": 10
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 29
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 17
+   },
+   {
+    "book": "2Cor",
+    "chapter": 12,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 17,
+    "verse": 1,
+    "verse_end": 9
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 8,
+    "verse": 21
+   },
+   {
+    "book": "Ex",
+    "chapter": 29,
+    "verse": 18
+   },
+   {
+    "book": "Eph",
+    "chapter": 5,
+    "verse": 2
+   },
+   {
+    "book": "Heb",
+    "chapter": 13,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 3,
+    "verse": 11
+   },
+   {
+    "book": "1Thes",
+    "chapter": 3,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 16,
+    "verse": 27
+   },
+   {
+    "book": "Eph",
+    "chapter": 5,
+    "verse": 20
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Phil",
+    "chapter": 1,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 23,
+  "targets": [
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 18
+   },
+   {
+    "book": "Phlm",
+    "chapter": 1,
+    "verse": 25
+   }
+  ]
+ }
+]

@@ -1,0 +1,204 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 1,
+  "verse_end": 4,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 14,
+    "verse_end": 16
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 1,
+  "verse_end": 21,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 34
+   },
+   {
+    "book": "Is",
+    "chapter": 63,
+    "verse": 1,
+    "verse_end": 6
+   },
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 7,
+    "verse_end": 22
+   },
+   {
+    "book": "Ez",
+    "chapter": 25,
+    "verse": 12,
+    "verse_end": 14
+   },
+   {
+    "book": "Ez",
+    "chapter": 35
+   },
+   {
+    "book": "Am",
+    "chapter": 1,
+    "verse": 11,
+    "verse_end": 12
+   },
+   {
+    "book": "Mal",
+    "chapter": 1,
+    "verse": 2,
+    "verse_end": 5
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 29,
+    "verse": 14
+   },
+   {
+    "book": "1Cor",
+    "chapter": 1,
+    "verse": 19
+   },
+   {
+    "book": "Am",
+    "chapter": 5,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 27,
+    "verse": 41,
+    "verse_end": 45
+   },
+   {
+    "book": "Ez",
+    "chapter": 25,
+    "verse": 12,
+    "verse_end": 14
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 137,
+    "verse": 7
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 25,
+    "verse": 3,
+    "verse_end": 9
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Jl",
+    "chapter": 4,
+    "verse": 11,
+    "verse_end": 12
+   },
+   {
+    "book": "Jl",
+    "chapter": 4,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 49,
+    "verse": 2
+   },
+   {
+    "book": "Jl",
+    "chapter": 3,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 50,
+    "verse": 19
+   }
+  ]
+ }
+]

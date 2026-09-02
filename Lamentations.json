@@ -1,0 +1,1235 @@
+[
+ {
+  "chapter": 1,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 30,
+    "verse": 14
+   },
+   {
+    "book": "Ez",
+    "chapter": 16,
+    "verse": 37
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 65
+   },
+   {
+    "book": "Jer",
+    "chapter": 45,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 33,
+    "verse": 8,
+    "verse_end": 9
+   },
+   {
+    "book": "Jer",
+    "chapter": 14,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 47,
+    "verse": 2,
+    "verse_end": 3
+   },
+   {
+    "book": "Jer",
+    "chapter": 13,
+    "verse": 22
+   },
+   {
+    "book": "Jer",
+    "chapter": 13,
+    "verse": 26
+   },
+   {
+    "book": "Na",
+    "chapter": 3,
+    "verse": 5
+   },
+   {
+    "book": "Hos",
+    "chapter": 2,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 23,
+    "verse": 3,
+    "verse_end": 6
+   },
+   {
+    "book": "Ps",
+    "chapter": 74,
+    "verse": 4,
+    "verse_end": 8
+   },
+   {
+    "book": "Is",
+    "chapter": 56,
+    "verse": 6
+   },
+   {
+    "book": "Is",
+    "chapter": 66,
+    "verse": 20,
+    "verse_end": 21
+   },
+   {
+    "book": "Jer",
+    "chapter": 51,
+    "verse": 51
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Ez",
+    "chapter": 12,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 21
+   },
+   {
+    "book": "Ecc",
+    "chapter": 4,
+    "verse": 1
+   },
+   {
+    "book": "Jer",
+    "chapter": 13,
+    "verse": 17
+   },
+   {
+    "book": "Jer",
+    "chapter": 14,
+    "verse": 17
+   },
+   {
+    "book": "Na",
+    "chapter": 3,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 18,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 41
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 30,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Am",
+    "chapter": 5,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 64
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Ez",
+    "chapter": 43,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 1,
+    "verse": 13
+   },
+   {
+    "book": "Is",
+    "chapter": 5,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Ez",
+    "chapter": 24,
+    "verse": 21
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 52,
+    "verse": 12,
+    "verse_end": 14
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 36
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 3,
+    "verse": 26
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 16
+   },
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 20
+   },
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 48
+   },
+   {
+    "book": "Jer",
+    "chapter": 8,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 12
+   },
+   {
+    "book": "Jer",
+    "chapter": 8,
+    "verse": 21
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 58,
+    "verse": 1
+   },
+   {
+    "book": "Jer",
+    "chapter": 2,
+    "verse": 8
+   },
+   {
+    "book": "Jer",
+    "chapter": 23,
+    "verse": 16
+   },
+   {
+    "book": "Ez",
+    "chapter": 13,
+    "verse": 9
+   },
+   {
+    "book": "Ez",
+    "chapter": 22,
+    "verse": 28
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 48,
+    "verse": 3
+   },
+   {
+    "book": "Ps",
+    "chapter": 50,
+    "verse": 12
+   },
+   {
+    "book": "Jer",
+    "chapter": 18,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 46
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 43
+   },
+   {
+    "book": "2Chr",
+    "chapter": 36,
+    "verse": 17
+   },
+   {
+    "book": "Jer",
+    "chapter": 6,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 42,
+    "verse": 17
+   },
+   {
+    "book": "Jer",
+    "chapter": 20,
+    "verse": 3
+   },
+   {
+    "book": "Jer",
+    "chapter": 20,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 20,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 30,
+    "verse": 30
+   },
+   {
+    "book": "Is",
+    "chapter": 38,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 143,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 41
+   },
+   {
+    "book": "Ps",
+    "chapter": 22,
+    "verse": 2
+   },
+   {
+    "book": "Ps",
+    "chapter": 88,
+    "verse": 14,
+    "verse_end": 15
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 10,
+    "verse": 16
+   },
+   {
+    "book": "Hos",
+    "chapter": 13,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 4
+   },
+   {
+    "book": "Jb",
+    "chapter": 16,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 6,
+    "verse": 4
+   },
+   {
+    "book": "Ps",
+    "chapter": 38,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 30,
+    "verse": 9
+   },
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 9,
+    "verse": 14
+   },
+   {
+    "book": "Jer",
+    "chapter": 23,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "1Sm",
+    "chapter": 20,
+    "verse": 15
+   },
+   {
+    "book": "Neh",
+    "chapter": 9,
+    "verse": 31
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 24,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 16,
+    "verse": 5
+   },
+   {
+    "book": "Ps",
+    "chapter": 73,
+    "verse": 26
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 25,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 130,
+    "verse": 6
+   },
+   {
+    "book": "Is",
+    "chapter": 30,
+    "verse": 18
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 30,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 50,
+    "verse": 6
+   },
+   {
+    "book": "Mt",
+    "chapter": 5,
+    "verse": 39
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 31,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 85,
+    "verse": 6
+   },
+   {
+    "book": "Ps",
+    "chapter": 103,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 32,
+  "targets": [
+   {
+    "book": "1Sm",
+    "chapter": 2,
+    "verse": 6,
+    "verse_end": 7
+   },
+   {
+    "book": "Tb",
+    "chapter": 13,
+    "verse": 2
+   },
+   {
+    "book": "Is",
+    "chapter": 54,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 33,
+  "targets": [
+   {
+    "book": "Ex",
+    "chapter": 34,
+    "verse": 6,
+    "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 38,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 45,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 40,
+  "targets": [
+   {
+    "book": "Jl",
+    "chapter": 2,
+    "verse": 12,
+    "verse_end": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 43,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 21
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 45,
+  "targets": [
+   {
+    "book": "1Cor",
+    "chapter": 4,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 47,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 24,
+    "verse": 17,
+    "verse_end": 18
+   },
+   {
+    "book": "Jer",
+    "chapter": 48,
+    "verse": 43,
+    "verse_end": 44
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 48,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 16
+   },
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 11
+   },
+   {
+    "book": "Jer",
+    "chapter": 8,
+    "verse": 23
+   },
+   {
+    "book": "Jer",
+    "chapter": 9,
+    "verse": 17
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 54,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 2,
+    "verse_end": 3
+   },
+   {
+    "book": "Ps",
+    "chapter": 88,
+    "verse": 8
+   },
+   {
+    "book": "Jon",
+    "chapter": 2,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 55,
+  "verse_end": 56,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 130,
+    "verse": 1,
+    "verse_end": 2
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 58,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 41,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 58,
+  "verse_end": 59,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 35,
+    "verse": 23,
+    "verse_end": 24
+   },
+   {
+    "book": "Ps",
+    "chapter": 43,
+    "verse": 1
+   },
+   {
+    "book": "Ps",
+    "chapter": 119,
+    "verse": 154
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 65,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 11,
+    "verse": 20
+   },
+   {
+    "book": "2Tim",
+    "chapter": 4,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 19,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Jb",
+    "chapter": 39,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 56
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Gen",
+    "chapter": 19,
+    "verse": 23,
+    "verse_end": 29
+   },
+   {
+    "book": "2Pt",
+    "chapter": 2,
+    "verse": 6
+   },
+   {
+    "book": "Jd",
+    "chapter": 1,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 20
+   },
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 56,
+    "verse_end": 57
+   },
+   {
+    "book": "2Kgs",
+    "chapter": 6,
+    "verse": 29
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 7,
+    "verse": 20
+   },
+   {
+    "book": "Ez",
+    "chapter": 5,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 6,
+    "verse": 13
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Dt",
+    "chapter": 28,
+    "verse": 29
+   },
+   {
+    "book": "Is",
+    "chapter": 59,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 4,
+    "verse": 13
+   },
+   {
+    "book": "Hb",
+    "chapter": 1,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 2,
+    "verse": 9
+   },
+   {
+    "book": "Ez",
+    "chapter": 19,
+    "verse": 4
+   },
+   {
+    "book": "Ez",
+    "chapter": 19,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 21
+   },
+   {
+    "book": "Jer",
+    "chapter": 25,
+    "verse": 15
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 40,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 79,
+    "verse": 1
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 1,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 4,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "Zec",
+    "chapter": 14,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Lam",
+    "chapter": 4,
+    "verse": 16
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 16,
+    "verse": 9
+   },
+   {
+    "book": "Jer",
+    "chapter": 25,
+    "verse": 10
+   },
+   {
+    "book": "Am",
+    "chapter": 8,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 19,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 9,
+    "verse": 8
+   },
+   {
+    "book": "Ps",
+    "chapter": 45,
+    "verse": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 102,
+    "verse": 13
+   },
+   {
+    "book": "Ps",
+    "chapter": 102,
+    "verse": 27
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 20,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 13,
+    "verse": 2
+   },
+   {
+    "book": "Ps",
+    "chapter": 42,
+    "verse": 10
+   },
+   {
+    "book": "Is",
+    "chapter": 49,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 21,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 80,
+    "verse": 19,
+    "verse_end": 20
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Jer",
+    "chapter": 14,
+    "verse": 19
+   }
+  ]
+ }
+]

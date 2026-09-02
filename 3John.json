@@ -1,0 +1,208 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "2Jn",
+    "chapter": 1,
+    "verse": 1
+   },
+   {
+    "book": "Acts",
+    "chapter": 19,
+    "verse": 29
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "3Jn",
+    "chapter": 1,
+    "verse": 5
+   },
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 10
+   },
+   {
+    "book": "2Jn",
+    "chapter": 1,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 11,
+    "verse_end": 12
+   },
+   {
+    "book": "1Tim",
+    "chapter": 1,
+    "verse": 2
+   },
+   {
+    "book": "2Tim",
+    "chapter": 1,
+    "verse": 2
+   },
+   {
+    "book": "1Jn",
+    "chapter": 2,
+    "verse": 1
+   },
+   {
+    "book": "2Jn",
+    "chapter": 1,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Rom",
+    "chapter": 12,
+    "verse": 13
+   },
+   {
+    "book": "Gal",
+    "chapter": 6,
+    "verse": 10
+   },
+   {
+    "book": "Heb",
+    "chapter": 13,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 15,
+    "verse": 3
+   },
+   {
+    "book": "Col",
+    "chapter": 1,
+    "verse": 10
+   },
+   {
+    "book": "1Thes",
+    "chapter": 2,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "2Jn",
+    "chapter": 1,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 11,
+  "targets": [
+   {
+    "book": "1Jn",
+    "chapter": 2,
+    "verse": 29
+   },
+   {
+    "book": "1Jn",
+    "chapter": 3,
+    "verse": 6
+   },
+   {
+    "book": "1Jn",
+    "chapter": 3,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 19,
+    "verse": 35
+   },
+   {
+    "book": "Jn",
+    "chapter": 21,
+    "verse": 24
+   },
+   {
+    "book": "1Tim",
+    "chapter": 3,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "2Jn",
+    "chapter": 1,
+    "verse": 12
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 15,
+  "targets": [
+   {
+    "book": "Jn",
+    "chapter": 20,
+    "verse": 19
+   },
+   {
+    "book": "Jn",
+    "chapter": 20,
+    "verse": 21
+   },
+   {
+    "book": "Jn",
+    "chapter": 20,
+    "verse": 26
+   },
+   {
+    "book": "Eph",
+    "chapter": 6,
+    "verse": 23
+   },
+   {
+    "book": "1Pt",
+    "chapter": 5,
+    "verse": 14
+   }
+  ]
+ }
+]

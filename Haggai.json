@@ -1,0 +1,200 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Zec",
+    "chapter": 4,
+    "verse": 6,
+    "verse_end": 10
+   },
+   {
+    "book": "Zec",
+    "chapter": 3,
+    "verse": 1,
+    "verse_end": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "2Sm",
+    "chapter": 7,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Lev",
+    "chapter": 26,
+    "verse": 26
+   },
+   {
+    "book": "Hos",
+    "chapter": 4,
+    "verse": 10
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 4,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 14,
+  "targets": [
+   {
+    "book": "Ezr",
+    "chapter": 1,
+    "verse": 5
+   },
+   {
+    "book": "Ezr",
+    "chapter": 5,
+    "verse": 1,
+    "verse_end": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Ezr",
+    "chapter": 3,
+    "verse": 10,
+    "verse_end": 13
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Heb",
+    "chapter": 12,
+    "verse": 26
+   },
+   {
+    "book": "Hg",
+    "chapter": 2,
+    "verse": 22
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Is",
+    "chapter": 60,
+    "verse": 7,
+    "verse_end": 11
+   },
+   {
+    "book": "Is",
+    "chapter": 60,
+    "verse": 5
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 8,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 12,
+  "targets": [
+   {
+    "book": "Lev",
+    "chapter": 22,
+    "verse": 4,
+    "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 13,
+  "targets": [
+   {
+    "book": "Lev",
+    "chapter": 22,
+    "verse": 4,
+    "verse_end": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 16,
+  "targets": [
+   {
+    "book": "Hos",
+    "chapter": 4,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Am",
+    "chapter": 4,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 22,
+  "targets": [
+   {
+    "book": "Sir",
+    "chapter": 49,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 23,
+  "targets": [
+   {
+    "book": "Zec",
+    "chapter": 6,
+    "verse": 12,
+    "verse_end": 13
+   }
+  ]
+ }
+]

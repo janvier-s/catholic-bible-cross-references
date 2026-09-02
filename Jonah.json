@@ -1,0 +1,302 @@
+[
+ {
+  "chapter": 1,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "2Kgs",
+    "chapter": 14,
+    "verse": 25
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Jon",
+    "chapter": 3,
+    "verse": 3
+   },
+   {
+    "book": "Jon",
+    "chapter": 4,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 4,
+  "verse_end": 6,
+  "targets": [
+   {
+    "book": "Mk",
+    "chapter": 4,
+    "verse": 37,
+    "verse_end": 38
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Acts",
+    "chapter": 27,
+    "verse": 21,
+    "verse_end": 26
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Jos",
+    "chapter": 7,
+    "verse": 16,
+    "verse_end": 18
+   },
+   {
+    "book": "1Sm",
+    "chapter": 14,
+    "verse": 40,
+    "verse_end": 42
+   }
+  ]
+ },
+ {
+  "chapter": 1,
+  "verse": 17,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 40
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 1,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 40
+   },
+   {
+    "book": "Mt",
+    "chapter": 16,
+    "verse": 4
+   },
+   {
+    "book": "Lk",
+    "chapter": 11,
+    "verse": 30
+   },
+   {
+    "book": "1Cor",
+    "chapter": 15,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 120,
+    "verse": 1
+   },
+   {
+    "book": "Lam",
+    "chapter": 3,
+    "verse": 55
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 4,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 42,
+    "verse": 8
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 31,
+    "verse": 23
+   },
+   {
+    "book": "Is",
+    "chapter": 38,
+    "verse": 11
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 6,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 5
+   },
+   {
+    "book": "Ps",
+    "chapter": 69,
+    "verse": 2
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 7,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 16,
+    "verse": 10
+   },
+   {
+    "book": "Ps",
+    "chapter": 30,
+    "verse": 4
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 8,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 5,
+    "verse": 8
+   },
+   {
+    "book": "Ps",
+    "chapter": 18,
+    "verse": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 88,
+    "verse": 3
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 31,
+    "verse": 7
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "verse": 10,
+  "targets": [
+   {
+    "book": "Ps",
+    "chapter": 50,
+    "verse": 14
+   },
+   {
+    "book": "Ps",
+    "chapter": 3,
+    "verse": 9
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 5,
+  "targets": [
+   {
+    "book": "Mt",
+    "chapter": 12,
+    "verse": 41
+   },
+   {
+    "book": "Lk",
+    "chapter": 11,
+    "verse": 32
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "verse": 9,
+  "targets": [
+   {
+    "book": "Jl",
+    "chapter": 2,
+    "verse": 14
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 2,
+  "targets": [
+   {
+    "book": "Ex",
+    "chapter": 34,
+    "verse": 6,
+    "verse_end": 7
+   },
+   {
+    "book": "Ps",
+    "chapter": 86,
+    "verse": 5
+   },
+   {
+    "book": "Jl",
+    "chapter": 2,
+    "verse": 13
+   },
+   {
+    "book": "Ex",
+    "chapter": 34,
+    "verse": 6
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "verse": 3,
+  "targets": [
+   {
+    "book": "1Kgs",
+    "chapter": 19,
+    "verse": 4
+   }
+  ]
+ }
+]
