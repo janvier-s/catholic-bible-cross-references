@@ -1,0 +1,518 @@
+[
+  {
+    "source": "Num 1:1–46",
+    "target": "Num 26:1–51"
+  },
+  {
+    "source": "Num 1:47",
+    "target": "Num 2:33"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "Num 3:5–8"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "21–37"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "4:1–33"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "8:19"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "18:3"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "4"
+  },
+  {
+    "source": "Num 1:50–53",
+    "target": "23"
+  },
+  {
+    "source": "Num 3:2",
+    "target": "Num 26:60"
+  },
+  {
+    "source": "Num 3:5–13",
+    "target": "Num 8:6–26"
+  },
+  {
+    "source": "Num 3:5–8",
+    "target": "Num 1:50–53"
+  },
+  {
+    "source": "Num 3:5–8",
+    "target": "3:21–37"
+  },
+  {
+    "source": "Num 3:5–8",
+    "target": "4:1–33"
+  },
+  {
+    "source": "Num 3:5–8",
+    "target": "8:19"
+  },
+  {
+    "source": "Num 3:11–13",
+    "target": "Num 3:45"
+  },
+  {
+    "source": "Num 3:11–13",
+    "target": "8:18"
+  },
+  {
+    "source": "Num 3:15–34",
+    "target": "Num 4:34–49"
+  },
+  {
+    "source": "Num 3:17–20",
+    "target": "Ex 6:16"
+  },
+  {
+    "source": "Num 3:17–20",
+    "target": "22"
+  },
+  {
+    "source": "Num 3:45",
+    "target": "Num 3:11–13"
+  },
+  {
+    "source": "Num 3:45",
+    "target": "8:18"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "Num 1:50–53"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "3:5–8"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "21–37"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "8:19"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "18:3"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "4"
+  },
+  {
+    "source": "Num 4:1–33",
+    "target": "23"
+  },
+  {
+    "source": "Num 4:34–49",
+    "target": "Num 3:15–34"
+  },
+  {
+    "source": "Num 5:2, 3",
+    "target": "Num 12:14"
+  },
+  {
+    "source": "Num 5:2, 3",
+    "target": "15"
+  },
+  {
+    "source": "Num 5:5–8",
+    "target": "Ex 22:7–15"
+  },
+  {
+    "source": "Num 5:5–8",
+    "target": "Lev 6:1–7"
+  },
+  {
+    "source": "Num 6:3",
+    "target": "Lk 1:15"
+  },
+  {
+    "source": "Num 6:13–21",
+    "target": "Acts 21:24"
+  },
+  {
+    "source": "Num 6:13–21",
+    "target": "26"
+  },
+  {
+    "source": "Num 8:6–26",
+    "target": "Num 3:5–13"
+  },
+  {
+    "source": "Num 8:18",
+    "target": "Num 3:11–13"
+  },
+  {
+    "source": "Num 8:18",
+    "target": "45"
+  },
+  {
+    "source": "Num 9:1–5",
+    "target": "Ex 12:1–14"
+  },
+  {
+    "source": "Num 9:1–5",
+    "target": "21–28"
+  },
+  {
+    "source": "Num 9:12",
+    "target": "Ex 12:46"
+  },
+  {
+    "source": "Num 9:12",
+    "target": "Jn 19:36"
+  },
+  {
+    "source": "Num 9:15–23",
+    "target": "Ex 40:36–38"
+  },
+  {
+    "source": "Num 10:35",
+    "target": "Ps 68:1"
+  },
+  {
+    "source": "Num 10:35",
+    "target": "2"
+  },
+  {
+    "source": "Num 11:4",
+    "target": "1 Cor 10:6"
+  },
+  {
+    "source": "Num 11:34",
+    "target": "1 Cor 10:6"
+  },
+  {
+    "source": "Num 12:7",
+    "target": "Heb 3:2"
+  },
+  {
+    "source": "Num 12:7",
+    "target": "5"
+  },
+  {
+    "source": "Num 12:7",
+    "target": "6"
+  },
+  {
+    "source": "Num 12:8",
+    "target": "Ex 33:11"
+  },
+  {
+    "source": "Num 12:8",
+    "target": "Deut 34:10"
+  },
+  {
+    "source": "Num 13:33",
+    "target": "Gen 6:4"
+  },
+  {
+    "source": "Num 14:3",
+    "target": "Acts 7:39"
+  },
+  {
+    "source": "Num 14:11–25",
+    "target": "Ex 32:9–14"
+  },
+  {
+    "source": "Num 14:11–25",
+    "target": "31–35"
+  },
+  {
+    "source": "Num 14:22, 23",
+    "target": "Heb 3:18"
+  },
+  {
+    "source": "Num 14:29",
+    "target": "Heb 3:17"
+  },
+  {
+    "source": "Num 14:33",
+    "target": "Acts 7:36"
+  },
+  {
+    "source": "Num 15:14",
+    "target": "Ex 12:49"
+  },
+  {
+    "source": "Num 15:14",
+    "target": "Lev 24:22"
+  },
+  {
+    "source": "Num 15:14",
+    "target": "Num 15:15"
+  },
+  {
+    "source": "Num 15:14",
+    "target": "16"
+  },
+  {
+    "source": "Num 15:14",
+    "target": "29"
+  },
+  {
+    "source": "Num 15:17–21",
+    "target": "Ex 34:26"
+  },
+  {
+    "source": "Num 15:17–21",
+    "target": "Lev 23:14"
+  },
+  {
+    "source": "Num 15:22–26",
+    "target": "Lev 4:13–21"
+  },
+  {
+    "source": "Num 15:27–29",
+    "target": "Lev 4:2–12"
+  },
+  {
+    "source": "Num 15:38–40",
+    "target": "Deut 22:12"
+  },
+  {
+    "source": "Num 16:5",
+    "target": "2 Tim 2:19"
+  },
+  {
+    "source": "Num 18:3, 4, 23",
+    "target": "Num 1:50–53"
+  },
+  {
+    "source": "Num 18:3, 4, 23",
+    "target": "3:5–8"
+  },
+  {
+    "source": "Num 18:3, 4, 23",
+    "target": "21–37"
+  },
+  {
+    "source": "Num 18:3, 4, 23",
+    "target": "4:1–33"
+  },
+  {
+    "source": "Num 18:3, 4, 23",
+    "target": "8:19"
+  },
+  {
+    "source": "Num 18:14",
+    "target": "Lev 27:28"
+  },
+  {
+    "source": "Num 18:19",
+    "target": "2 Chron 13:5"
+  },
+  {
+    "source": "Num 20:2–13",
+    "target": "Ex 17:2–7"
+  },
+  {
+    "source": "Num 20:25–29",
+    "target": "Num 33:38"
+  },
+  {
+    "source": "Num 20:25–29",
+    "target": "39"
+  },
+  {
+    "source": "Num 21:1",
+    "target": "Num 33:40"
+  },
+  {
+    "source": "Num 21:21–30",
+    "target": "Deut 2:26–37"
+  },
+  {
+    "source": "Num 21:33–35",
+    "target": "Deut 3:1–7"
+  },
+  {
+    "source": "Num 22:1",
+    "target": "Num 33:48"
+  },
+  {
+    "source": "Num 24:9",
+    "target": "Gen 49:9"
+  },
+  {
+    "source": "Num 26:5–51",
+    "target": "Num 1:22–46"
+  },
+  {
+    "source": "Num 26:57–62",
+    "target": "Num 1:47–49"
+  },
+  {
+    "source": "Num 26:64, 65",
+    "target": "Num 14:26–35"
+  },
+  {
+    "source": "Num 27:1–11",
+    "target": "Num 36:1–12"
+  },
+  {
+    "source": "Num 27:12–14",
+    "target": "Deut 3:23–27"
+  },
+  {
+    "source": "Num 27:18–23",
+    "target": "Deut 3:28"
+  },
+  {
+    "source": "Num 28:3–8",
+    "target": "Ex 29:38–42"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "Ex 12:1–14"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "21–27"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "Lev 23:5"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "Deut 16:1"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "2"
+  },
+  {
+    "source": "Num 28:16",
+    "target": "5–7"
+  },
+  {
+    "source": "Num 28:17–25",
+    "target": "Ex 12:15–20"
+  },
+  {
+    "source": "Num 28:17–25",
+    "target": "Lev 23:6–8"
+  },
+  {
+    "source": "Num 28:17–25",
+    "target": "Deut 16:3"
+  },
+  {
+    "source": "Num 28:17–25",
+    "target": "4"
+  },
+  {
+    "source": "Num 28:17–25",
+    "target": "8"
+  },
+  {
+    "source": "Num 28:26–31",
+    "target": "Ex 23:16"
+  },
+  {
+    "source": "Num 28:26–31",
+    "target": "34:22"
+  },
+  {
+    "source": "Num 28:26–31",
+    "target": "Lev 23:15–21"
+  },
+  {
+    "source": "Num 28:26–31",
+    "target": "Deut 16:9–12"
+  },
+  {
+    "source": "Num 29:1–6",
+    "target": "Ex 23:16"
+  },
+  {
+    "source": "Num 29:1–6",
+    "target": "34:22"
+  },
+  {
+    "source": "Num 29:1–6",
+    "target": "Lev 23:23–25"
+  },
+  {
+    "source": "Num 29:7–11",
+    "target": "Lev 16:29–34"
+  },
+  {
+    "source": "Num 29:7–11",
+    "target": "23:26–32"
+  },
+  {
+    "source": "Num 29:12–34",
+    "target": "Lev 23:33–35"
+  },
+  {
+    "source": "Num 29:35–38",
+    "target": "Lev 23:36"
+  },
+  {
+    "source": "Num 30:2–16",
+    "target": "Deut 23:21–23"
+  },
+  {
+    "source": "Num 30:2",
+    "target": "Mt 5:33"
+  },
+  {
+    "source": "Num 31:16",
+    "target": "Rev 2:14"
+  },
+  {
+    "source": "Num 33:38, 39",
+    "target": "Num 20:23–29"
+  },
+  {
+    "source": "Num 33:38, 39",
+    "target": "Deut 10:6"
+  },
+  {
+    "source": "Num 33:52",
+    "target": "Ex 23:24"
+  },
+  {
+    "source": "Num 33:52",
+    "target": "Deut 7:5"
+  },
+  {
+    "source": "Num 33:52",
+    "target": "12:3"
+  },
+  {
+    "source": "Num 34:3–5",
+    "target": "Josh 15:1–4"
+  },
+  {
+    "source": "Num 34:13–15",
+    "target": "Josh 14:1–5"
+  },
+  {
+    "source": "Num 35:1–8",
+    "target": "Lev 25:32–34"
+  },
+  {
+    "source": "Num 35:1–8",
+    "target": "Josh 21:1–42"
+  },
+  {
+    "source": "Num 35:6, 9–34",
+    "target": "Deut 19:1–13"
+  }
+]

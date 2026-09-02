@@ -1,0 +1,998 @@
+[
+  {
+    "source": "Is 1:9",
+    "target": "Rom 9:29"
+  },
+  {
+    "source": "Is 2:2–4",
+    "target": "Mic 4:1–3"
+  },
+  {
+    "source": "Is 4:2",
+    "target": "Jer 23:5"
+  },
+  {
+    "source": "Is 4:2",
+    "target": "33:15"
+  },
+  {
+    "source": "Is 4:2",
+    "target": "Zech 3:8"
+  },
+  {
+    "source": "Is 4:2",
+    "target": "6:12"
+  },
+  {
+    "source": "Is 5:1–7",
+    "target": "Mt 21:33–46"
+  },
+  {
+    "source": "Is 5:1–7",
+    "target": "Mk 12:1–12"
+  },
+  {
+    "source": "Is 5:1–7",
+    "target": "Lk 20:9–19"
+  },
+  {
+    "source": "Is 6:3",
+    "target": "Rev 4:8"
+  },
+  {
+    "source": "Is 6:4",
+    "target": "Rev 15:8"
+  },
+  {
+    "source": "Is 6:9–10",
+    "target": "Mt 13:14–15"
+  },
+  {
+    "source": "Is 6:9–10",
+    "target": "Mk 4:12"
+  },
+  {
+    "source": "Is 6:9–10",
+    "target": "Lk 8:10"
+  },
+  {
+    "source": "Is 6:9–10",
+    "target": "Jn 12:39–41"
+  },
+  {
+    "source": "Is 6:9–10",
+    "target": "Acts 28:26–27"
+  },
+  {
+    "source": "Is 7:14",
+    "target": "Mt 1:23"
+  },
+  {
+    "source": "Is 8:12–13",
+    "target": "1 Pet 3:14–15"
+  },
+  {
+    "source": "Is 8:14",
+    "target": "Rom 9:32–33"
+  },
+  {
+    "source": "Is 8:14",
+    "target": "1 Pet 2:8"
+  },
+  {
+    "source": "Is 8:17–18",
+    "target": "Heb 2:13"
+  },
+  {
+    "source": "Is 9:1–2",
+    "target": "Mt 4:15–16"
+  },
+  {
+    "source": "Is 9:1–2",
+    "target": "Lk 1:79"
+  },
+  {
+    "source": "Is 10:5–34",
+    "target": "Nahum"
+  },
+  {
+    "source": "Is 10:5–34",
+    "target": "Zeph 2:13–15"
+  },
+  {
+    "source": "Is 10:22–23",
+    "target": "Rom 9:27–28"
+  },
+  {
+    "source": "Is 11:1",
+    "target": "Is 11:10"
+  },
+  {
+    "source": "Is 11:1",
+    "target": "Rom 15:12"
+  },
+  {
+    "source": "Is 11:2",
+    "target": "1 Pet 4:14"
+  },
+  {
+    "source": "Is 11:5",
+    "target": "Eph 6:14"
+  },
+  {
+    "source": "Is 11:6–9",
+    "target": "Is 65:25"
+  },
+  {
+    "source": "Is 11:6–9",
+    "target": "Hab 2:14"
+  },
+  {
+    "source": "Is 11:10",
+    "target": "Is 11:1"
+  },
+  {
+    "source": "Is 11:10",
+    "target": "Rom 15:12"
+  },
+  {
+    "source": "Is 13:1—14:23",
+    "target": "Is 47"
+  },
+  {
+    "source": "Is 13:1—14:23",
+    "target": "Jer 50–51"
+  },
+  {
+    "source": "Is 13:1—14:23",
+    "target": "Hab 1–2"
+  },
+  {
+    "source": "Is 13:10",
+    "target": "Mt 24:29"
+  },
+  {
+    "source": "Is 13:10",
+    "target": "Mk 13:24"
+  },
+  {
+    "source": "Is 13:10",
+    "target": "Rev 6:12"
+  },
+  {
+    "source": "Is 13:10",
+    "target": "8:12"
+  },
+  {
+    "source": "Is 13:21",
+    "target": "Rev 18:2"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Jer 47"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Ezek 25:15–17"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Joel 3:4–8"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Amos 1:6–8"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Zeph 2:4–7"
+  },
+  {
+    "source": "Is 14:29–31",
+    "target": "Zech 9:5–7"
+  },
+  {
+    "source": "Is 15–16",
+    "target": "Is 25:10–12"
+  },
+  {
+    "source": "Is 15–16",
+    "target": "Jer 48"
+  },
+  {
+    "source": "Is 15–16",
+    "target": "Ezek 25:8–11"
+  },
+  {
+    "source": "Is 15–16",
+    "target": "Amos 2:1–3"
+  },
+  {
+    "source": "Is 15–16",
+    "target": "Zeph 2:8–11"
+  },
+  {
+    "source": "Is 17:1–3",
+    "target": "Jer 49:23–27"
+  },
+  {
+    "source": "Is 17:1–3",
+    "target": "Amos 1:3–5"
+  },
+  {
+    "source": "Is 17:1–3",
+    "target": "Zech 9:1"
+  },
+  {
+    "source": "Is 18",
+    "target": "Zeph 2:12"
+  },
+  {
+    "source": "Is 19",
+    "target": "Jer 46"
+  },
+  {
+    "source": "Is 19",
+    "target": "Ezek 29–32"
+  },
+  {
+    "source": "Is 19",
+    "target": "Zech 14:18–19"
+  },
+  {
+    "source": "Is 22:22",
+    "target": "Rev 3:7"
+  },
+  {
+    "source": "Is 23",
+    "target": "Ezek 26:1—28:19"
+  },
+  {
+    "source": "Is 23",
+    "target": "Joel 3:4–8"
+  },
+  {
+    "source": "Is 23",
+    "target": "Amos 1:9–10"
+  },
+  {
+    "source": "Is 23",
+    "target": "Zech 9:3–4"
+  },
+  {
+    "source": "Is 23:17",
+    "target": "Rev 17:2"
+  },
+  {
+    "source": "Is 24:8",
+    "target": "Rev 18:22"
+  },
+  {
+    "source": "Is 25:8",
+    "target": "1 Cor 15:54"
+  },
+  {
+    "source": "Is 25:8",
+    "target": "Rev 7:17"
+  },
+  {
+    "source": "Is 25:8",
+    "target": "21:4"
+  },
+  {
+    "source": "Is 25:10–12",
+    "target": "Is 15–16"
+  },
+  {
+    "source": "Is 25:10–12",
+    "target": "Jer 48"
+  },
+  {
+    "source": "Is 25:10–12",
+    "target": "Ezek 25:8–11"
+  },
+  {
+    "source": "Is 25:10–12",
+    "target": "Amos 2:1–3"
+  },
+  {
+    "source": "Is 25:10–12",
+    "target": "Zeph 2:8–11"
+  },
+  {
+    "source": "Is 27:13",
+    "target": "Mt 24:31"
+  },
+  {
+    "source": "Is 27:13",
+    "target": "1 Cor 15:52"
+  },
+  {
+    "source": "Is 27:13",
+    "target": "1 Thess 4:16"
+  },
+  {
+    "source": "Is 28:11–12",
+    "target": "1 Cor 14:21"
+  },
+  {
+    "source": "Is 28:12",
+    "target": "Mt 11:29"
+  },
+  {
+    "source": "Is 28:16",
+    "target": "Rom 9:33"
+  },
+  {
+    "source": "Is 28:16",
+    "target": "10:11"
+  },
+  {
+    "source": "Is 28:16",
+    "target": "1 Pet 2:4–6"
+  },
+  {
+    "source": "Is 29:13",
+    "target": "Mt 15:8–9"
+  },
+  {
+    "source": "Is 29:13",
+    "target": "Mk 7:6–7"
+  },
+  {
+    "source": "Is 29:14",
+    "target": "1 Cor 1:19"
+  },
+  {
+    "source": "Is 29:16",
+    "target": "Is 45:9"
+  },
+  {
+    "source": "Is 29:16",
+    "target": "Rom 9:20"
+  },
+  {
+    "source": "Is 29:18–19",
+    "target": "Mt 11:5"
+  },
+  {
+    "source": "Is 34",
+    "target": "Is 63:1–6"
+  },
+  {
+    "source": "Is 34",
+    "target": "Jer 49:7–22"
+  },
+  {
+    "source": "Is 34",
+    "target": "Ezek 25:12–14"
+  },
+  {
+    "source": "Is 34",
+    "target": "35"
+  },
+  {
+    "source": "Is 34",
+    "target": "Amos 1:11–12"
+  },
+  {
+    "source": "Is 34",
+    "target": "Obad"
+  },
+  {
+    "source": "Is 34",
+    "target": "Mal 1:2–5"
+  },
+  {
+    "source": "Is 34:4",
+    "target": "Rev 6:13–14"
+  },
+  {
+    "source": "Is 34:9–10",
+    "target": "Rev 19:3"
+  },
+  {
+    "source": "Is 35:3",
+    "target": "Heb 12:12"
+  },
+  {
+    "source": "Is 35:5–6",
+    "target": "Mt 11:5"
+  },
+  {
+    "source": "Is 35:5–6",
+    "target": "Lk 7:22"
+  },
+  {
+    "source": "Is 36:1—38:8, 21–22",
+    "target": "2 Kings 18:13"
+  },
+  {
+    "source": "Is 36:1—38:8, 21–22",
+    "target": "20:11"
+  },
+  {
+    "source": "Is 36:1—38:8, 21–22",
+    "target": "2 Chron 32:1–24"
+  },
+  {
+    "source": "Is 39:1–8",
+    "target": "2 Kings 20:12–19"
+  },
+  {
+    "source": "Is 39:1–8",
+    "target": "2 Chron 32:31"
+  },
+  {
+    "source": "Is 40:3",
+    "target": "Mt 3:3"
+  },
+  {
+    "source": "Is 40:3",
+    "target": "Mk 1:3"
+  },
+  {
+    "source": "Is 40:3",
+    "target": "Lk 3:4"
+  },
+  {
+    "source": "Is 40:3",
+    "target": "Jn 1:23"
+  },
+  {
+    "source": "Is 40:4–5",
+    "target": "Lk 3:5–6"
+  },
+  {
+    "source": "Is 40:6–8",
+    "target": "1 Pet 1:24–25"
+  },
+  {
+    "source": "Is 40:9",
+    "target": "Is 52:7"
+  },
+  {
+    "source": "Is 40:9",
+    "target": "Nah 1:15"
+  },
+  {
+    "source": "Is 40:9",
+    "target": "Acts 10:36"
+  },
+  {
+    "source": "Is 40:9",
+    "target": "Rom 10:15"
+  },
+  {
+    "source": "Is 40:10",
+    "target": "Rev 22:7"
+  },
+  {
+    "source": "Is 40:10",
+    "target": "12"
+  },
+  {
+    "source": "Is 40:13",
+    "target": "Rom 11:34"
+  },
+  {
+    "source": "Is 40:13",
+    "target": "1 Cor 2:16"
+  },
+  {
+    "source": "Is 41:8",
+    "target": "Jas 2:23"
+  },
+  {
+    "source": "Is 41:8–9",
+    "target": "Lk 1:54"
+  },
+  {
+    "source": "Is 41:8–9",
+    "target": "Heb 2:16"
+  },
+  {
+    "source": "Is 41:10",
+    "target": "Acts 18:10"
+  },
+  {
+    "source": "Is 42:1–4",
+    "target": "Mt 12:18–21"
+  },
+  {
+    "source": "Is 42:5",
+    "target": "Acts 17:24–25"
+  },
+  {
+    "source": "Is 42:6",
+    "target": "Is 49:6"
+  },
+  {
+    "source": "Is 42:6",
+    "target": "Lk 2:32"
+  },
+  {
+    "source": "Is 42:6",
+    "target": "Acts 13:47"
+  },
+  {
+    "source": "Is 42:6",
+    "target": "26:23"
+  },
+  {
+    "source": "Is 42:7, 16",
+    "target": "Acts 26:18"
+  },
+  {
+    "source": "Is 43:5",
+    "target": "Acts 18:10"
+  },
+  {
+    "source": "Is 44:6",
+    "target": "Is 48:12"
+  },
+  {
+    "source": "Is 44:6",
+    "target": "Rev 1:17"
+  },
+  {
+    "source": "Is 44:6",
+    "target": "2:8"
+  },
+  {
+    "source": "Is 44:6",
+    "target": "22:13"
+  },
+  {
+    "source": "Is 44:23",
+    "target": "Jer 51:48"
+  },
+  {
+    "source": "Is 44:23",
+    "target": "Rev 12:12"
+  },
+  {
+    "source": "Is 44:23",
+    "target": "18:20"
+  },
+  {
+    "source": "Is 44:25",
+    "target": "1 Cor 1:20"
+  },
+  {
+    "source": "Is 45:9",
+    "target": "Is 29:16"
+  },
+  {
+    "source": "Is 45:9",
+    "target": "Rom 9:20"
+  },
+  {
+    "source": "Is 45:14",
+    "target": "1 Cor 14:25"
+  },
+  {
+    "source": "Is 45:17",
+    "target": "Heb 5:9"
+  },
+  {
+    "source": "Is 45:21",
+    "target": "Acts 15:18"
+  },
+  {
+    "source": "Is 45:23",
+    "target": "Rom 14:11"
+  },
+  {
+    "source": "Is 45:23",
+    "target": "Phil 2:10–11"
+  },
+  {
+    "source": "47",
+    "target": "Is 13:1–14:23"
+  },
+  {
+    "source": "47",
+    "target": "Jer 50–51"
+  },
+  {
+    "source": "47",
+    "target": "Hab 1–2"
+  },
+  {
+    "source": "Is 47:8",
+    "target": "Rev 18:7"
+  },
+  {
+    "source": "Is 47:9",
+    "target": "Rev 18:8"
+  },
+  {
+    "source": "Is 48:12",
+    "target": "Is 44:6"
+  },
+  {
+    "source": "Is 48:12",
+    "target": "Rev 1:17"
+  },
+  {
+    "source": "Is 48:12",
+    "target": "2:8"
+  },
+  {
+    "source": "Is 48:12",
+    "target": "22:13"
+  },
+  {
+    "source": "Is 49:1",
+    "target": "Jer 1:5"
+  },
+  {
+    "source": "Is 49:1",
+    "target": "Gal 1:15"
+  },
+  {
+    "source": "Is 49:4",
+    "target": "Phil 2:16"
+  },
+  {
+    "source": "Is 49:6",
+    "target": "Is 42:6"
+  },
+  {
+    "source": "Is 49:6",
+    "target": "Lk 2:32"
+  },
+  {
+    "source": "Is 49:6",
+    "target": "Acts 13:47"
+  },
+  {
+    "source": "Is 49:6",
+    "target": "26:23"
+  },
+  {
+    "source": "Is 49:8",
+    "target": "2 Cor 6:2"
+  },
+  {
+    "source": "Is 49:10",
+    "target": "Rev 7:16"
+  },
+  {
+    "source": "Is 49:13",
+    "target": "Is 44:23"
+  },
+  {
+    "source": "Is 49:13",
+    "target": "Jer 51:48"
+  },
+  {
+    "source": "Is 49:13",
+    "target": "Rev 12:12"
+  },
+  {
+    "source": "Is 49:13",
+    "target": "18:20"
+  },
+  {
+    "source": "Is 50:8–9",
+    "target": "Rom 8:33"
+  },
+  {
+    "source": "Is 50:8–9",
+    "target": "Heb 1:11"
+  },
+  {
+    "source": "Is 51:6",
+    "target": "Heb 1:11"
+  },
+  {
+    "source": "Is 52:1",
+    "target": "Rev 21:27"
+  },
+  {
+    "source": "Is 52:5",
+    "target": "Rom 2:24"
+  },
+  {
+    "source": "Is 52:7",
+    "target": "Acts 10:36"
+  },
+  {
+    "source": "Is 52:7",
+    "target": "Rom 10:15"
+  },
+  {
+    "source": "Is 52:7",
+    "target": "Eph 6:15"
+  },
+  {
+    "source": "Is 52:10",
+    "target": "Lk 2:30"
+  },
+  {
+    "source": "Is 52:10",
+    "target": "3:6"
+  },
+  {
+    "source": "Is 52:11",
+    "target": "2 Cor 6:17"
+  },
+  {
+    "source": "Is 52:15",
+    "target": "Rom 15:21"
+  },
+  {
+    "source": "Is 53:1",
+    "target": "Jn 12:38"
+  },
+  {
+    "source": "Is 53:1",
+    "target": "Rom 10:16"
+  },
+  {
+    "source": "Is 53:4",
+    "target": "Mt 8:17"
+  },
+  {
+    "source": "Is 53:5–6",
+    "target": "1 Pet 2:24–25"
+  },
+  {
+    "source": "Is 53:7–8",
+    "target": "Acts 8:32–33"
+  },
+  {
+    "source": "Is 53:9",
+    "target": "1 Pet 2:22"
+  },
+  {
+    "source": "Is 53:12",
+    "target": "Lk 22:37"
+  },
+  {
+    "source": "Is 54:1",
+    "target": "Gal 4:27"
+  },
+  {
+    "source": "Is 54:11–12",
+    "target": "Rev 21:19"
+  },
+  {
+    "source": "Is 54:13",
+    "target": "Jn 6:45"
+  },
+  {
+    "source": "Is 55:1",
+    "target": "Rev 21:6"
+  },
+  {
+    "source": "Is 55:1",
+    "target": "22:17"
+  },
+  {
+    "source": "Is 55:3",
+    "target": "Acts 13:34"
+  },
+  {
+    "source": "Is 55:3",
+    "target": "Heb 13:20"
+  },
+  {
+    "source": "Is 55:10",
+    "target": "2 Cor 9:10"
+  },
+  {
+    "source": "Is 56:7",
+    "target": "Mt 21:13"
+  },
+  {
+    "source": "Is 56:7",
+    "target": "Mk 11:17"
+  },
+  {
+    "source": "Is 56:7",
+    "target": "Lk 19:46"
+  },
+  {
+    "source": "Is 57:15",
+    "target": "Mt 5:3"
+  },
+  {
+    "source": "Is 57:19",
+    "target": "Acts 2:39"
+  },
+  {
+    "source": "Is 57:19",
+    "target": "Eph 2:13"
+  },
+  {
+    "source": "Is 57:19",
+    "target": "17"
+  },
+  {
+    "source": "Is 58:6",
+    "target": "Acts 8:23"
+  },
+  {
+    "source": "Is 59:7–8",
+    "target": "Rom 3:15–17"
+  },
+  {
+    "source": "Is 59:17",
+    "target": "Eph 6:14"
+  },
+  {
+    "source": "Is 59:17",
+    "target": "17"
+  },
+  {
+    "source": "Is 59:17",
+    "target": "1 Thess 5:8"
+  },
+  {
+    "source": "Is 59:19",
+    "target": "Mt 8:11"
+  },
+  {
+    "source": "Is 59:19",
+    "target": "Lk 13:29"
+  },
+  {
+    "source": "Is 59:20–21",
+    "target": "Rom 11:26–27"
+  },
+  {
+    "source": "Is 60:6",
+    "target": "Mt 2:11"
+  },
+  {
+    "source": "Is 60:11",
+    "target": "Rev 21:25–26"
+  },
+  {
+    "source": "Is 60:14",
+    "target": "Rev 3:9"
+  },
+  {
+    "source": "Is 60:19",
+    "target": "Rev 21:23"
+  },
+  {
+    "source": "Is 60:19",
+    "target": "22:5"
+  },
+  {
+    "source": "Is 61:1–2",
+    "target": "Mt 11:5"
+  },
+  {
+    "source": "Is 61:1–2",
+    "target": "Lk 4:18–19"
+  },
+  {
+    "source": "Is 61:1–2",
+    "target": "7:22"
+  },
+  {
+    "source": "Is 61:6",
+    "target": "Ex 19:6"
+  },
+  {
+    "source": "Is 61:6",
+    "target": "1 Pet 2:5"
+  },
+  {
+    "source": "Is 61:6",
+    "target": "Rev 1:6"
+  },
+  {
+    "source": "Is 61:6",
+    "target": "5:10"
+  },
+  {
+    "source": "Is 61:6",
+    "target": "20:6"
+  },
+  {
+    "source": "Is 62:2",
+    "target": "Rev 2:17"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Is 34"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Jer 49:7–22"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Ezek 25:12–14"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "35"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Amos 1:11–12"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Obad"
+  },
+  {
+    "source": "Is 63:1–6",
+    "target": "Mal 1:2–5"
+  },
+  {
+    "source": "Is 63:3",
+    "target": "Rev 19:15"
+  },
+  {
+    "source": "Is 63:11",
+    "target": "Heb 13:20"
+  },
+  {
+    "source": "Is 64:4",
+    "target": "1 Cor 2:9"
+  },
+  {
+    "source": "Is 65:1–2",
+    "target": "Rom 10:20–21"
+  },
+  {
+    "source": "Is 65:17",
+    "target": "Is 66:22"
+  },
+  {
+    "source": "Is 65:17",
+    "target": "2 Pet 3:13"
+  },
+  {
+    "source": "Is 65:17",
+    "target": "Rev 21:1"
+  },
+  {
+    "source": "Is 65:25",
+    "target": "Is 11:6–9"
+  },
+  {
+    "source": "Is 66:1–2",
+    "target": "Mt 5:34"
+  },
+  {
+    "source": "Is 66:1–2",
+    "target": "Acts 7:49–50"
+  },
+  {
+    "source": "Is 66:6",
+    "target": "Rev 16:1"
+  },
+  {
+    "source": "Is 66:6",
+    "target": "17"
+  },
+  {
+    "source": "Is 66:7",
+    "target": "Rev 12:5"
+  },
+  {
+    "source": "Is 66:22",
+    "target": "Is 65:17"
+  },
+  {
+    "source": "Is 66:22",
+    "target": "2 Pet 3:13"
+  },
+  {
+    "source": "Is 66:22",
+    "target": "Rev 21:1"
+  },
+  {
+    "source": "Is 66:24",
+    "target": "Mk 9:48"
+  }
+]
