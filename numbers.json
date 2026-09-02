@@ -17,23 +17,23 @@
   },
   {
     "source": "Num 1:50–53",
-    "target": "4:1–33"
+    "target": "Num 4:1–33"
   },
   {
     "source": "Num 1:50–53",
-    "target": "8:19"
+    "target": "Num 8:19"
   },
   {
     "source": "Num 1:50–53",
-    "target": "18:3"
+    "target": "Num 18:3"
   },
   {
     "source": "Num 1:50–53",
-    "target": "4"
+    "target": "Num 18:4"
   },
   {
     "source": "Num 1:50–53",
-    "target": "23"
+    "target": "Num 18:23"
   },
   {
     "source": "Num 3:2",
@@ -49,15 +49,15 @@
   },
   {
     "source": "Num 3:5–8",
-    "target": "3:21–37"
+    "target": "Num 3:21–37"
   },
   {
     "source": "Num 3:5–8",
-    "target": "4:1–33"
+    "target": "Num 4:1–33"
   },
   {
     "source": "Num 3:5–8",
-    "target": "8:19"
+    "target": "Num 8:19"
   },
   {
     "source": "Num 3:11–13",
@@ -65,7 +65,7 @@
   },
   {
     "source": "Num 3:11–13",
-    "target": "8:18"
+    "target": "Num 8:18"
   },
   {
     "source": "Num 3:15–34",
@@ -77,7 +77,7 @@
   },
   {
     "source": "Num 3:17–20",
-    "target": "22"
+    "target": "Ex 6:22"
   },
   {
     "source": "Num 3:45",
@@ -85,7 +85,7 @@
   },
   {
     "source": "Num 3:45",
-    "target": "8:18"
+    "target": "Num 8:18"
   },
   {
     "source": "Num 4:1–33",
@@ -93,7 +93,7 @@
   },
   {
     "source": "Num 4:1–33",
-    "target": "3:5–8"
+    "target": "Num 3:5–8"
   },
   {
     "source": "Num 4:1–33",
@@ -101,19 +101,19 @@
   },
   {
     "source": "Num 4:1–33",
-    "target": "8:19"
+    "target": "Num 8:19"
   },
   {
     "source": "Num 4:1–33",
-    "target": "18:3"
+    "target": "Num 18:3"
   },
   {
     "source": "Num 4:1–33",
-    "target": "4"
+    "target": "Num 18:4"
   },
   {
     "source": "Num 4:1–33",
-    "target": "23"
+    "target": "Num 18:23"
   },
   {
     "source": "Num 4:34–49",
@@ -125,7 +125,7 @@
   },
   {
     "source": "Num 5:2, 3",
-    "target": "15"
+    "target": "Num 12:15"
   },
   {
     "source": "Num 5:5–8",
@@ -145,7 +145,7 @@
   },
   {
     "source": "Num 6:13–21",
-    "target": "26"
+    "target": "Acts 21:26"
   },
   {
     "source": "Num 8:6–26",
@@ -157,7 +157,7 @@
   },
   {
     "source": "Num 8:18",
-    "target": "45"
+    "target": "Num 3:45"
   },
   {
     "source": "Num 9:1–5",
@@ -185,7 +185,7 @@
   },
   {
     "source": "Num 10:35",
-    "target": "2"
+    "target": "Ps 68:2"
   },
   {
     "source": "Num 11:4",
@@ -201,11 +201,11 @@
   },
   {
     "source": "Num 12:7",
-    "target": "5"
+    "target": "Heb 3:5"
   },
   {
     "source": "Num 12:7",
-    "target": "6"
+    "target": "Heb 3:6"
   },
   {
     "source": "Num 12:8",
@@ -257,11 +257,11 @@
   },
   {
     "source": "Num 15:14",
-    "target": "16"
+    "target": "Num 15:16"
   },
   {
     "source": "Num 15:14",
-    "target": "29"
+    "target": "Num 15:29"
   },
   {
     "source": "Num 15:17–21",
@@ -293,7 +293,7 @@
   },
   {
     "source": "Num 18:3, 4, 23",
-    "target": "3:5–8"
+    "target": "Num 3:5–8"
   },
   {
     "source": "Num 18:3, 4, 23",
@@ -301,11 +301,11 @@
   },
   {
     "source": "Num 18:3, 4, 23",
-    "target": "4:1–33"
+    "target": "Num 4:1–33"
   },
   {
     "source": "Num 18:3, 4, 23",
-    "target": "8:19"
+    "target": "Num 8:19"
   },
   {
     "source": "Num 18:14",
@@ -325,7 +325,7 @@
   },
   {
     "source": "Num 20:25–29",
-    "target": "39"
+    "target": "Num 33:39"
   },
   {
     "source": "Num 21:1",
@@ -393,7 +393,7 @@
   },
   {
     "source": "Num 28:16",
-    "target": "2"
+    "target": "Deut 16:2"
   },
   {
     "source": "Num 28:16",
@@ -413,11 +413,11 @@
   },
   {
     "source": "Num 28:17–25",
-    "target": "4"
+    "target": "Deut 16:4"
   },
   {
     "source": "Num 28:17–25",
-    "target": "8"
+    "target": "Deut 16:8"
   },
   {
     "source": "Num 28:26–31",
@@ -425,7 +425,7 @@
   },
   {
     "source": "Num 28:26–31",
-    "target": "34:22"
+    "target": "Ex 34:22"
   },
   {
     "source": "Num 28:26–31",
@@ -441,7 +441,7 @@
   },
   {
     "source": "Num 29:1–6",
-    "target": "34:22"
+    "target": "Ex 34:22"
   },
   {
     "source": "Num 29:1–6",
@@ -453,7 +453,7 @@
   },
   {
     "source": "Num 29:7–11",
-    "target": "23:26–32"
+    "target": "Lev 23:26–32"
   },
   {
     "source": "Num 29:12–34",
@@ -493,7 +493,7 @@
   },
   {
     "source": "Num 33:52",
-    "target": "12:3"
+    "target": "Deut 12:3"
   },
   {
     "source": "Num 34:3–5",

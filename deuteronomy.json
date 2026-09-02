@@ -9,7 +9,7 @@
   },
   {
     "source": "Deut 1:16–18",
-    "target": "26"
+    "target": "Ex 18:26"
   },
   {
     "source": "Deut 1:22–46",
@@ -17,7 +17,7 @@
   },
   {
     "source": "Deut 1:22–46",
-    "target": "32:8–13"
+    "target": "Num 32:8–13"
   },
   {
     "source": "Deut 1:31",
@@ -53,7 +53,7 @@
   },
   {
     "source": "Deut 4:2",
-    "target": "19"
+    "target": "Rev 22:19"
   },
   {
     "source": "Deut 4:9–14",
@@ -61,7 +61,7 @@
   },
   {
     "source": "Deut 4:9–14",
-    "target": "21"
+    "target": "Ex 19:21"
   },
   {
     "source": "Deut 4:24",
@@ -97,7 +97,7 @@
   },
   {
     "source": "Deut 5:14",
-    "target": "23:12"
+    "target": "Ex 23:12"
   },
   {
     "source": "Deut 5:16–20",
@@ -105,7 +105,7 @@
   },
   {
     "source": "Deut 5:16–20",
-    "target": "19"
+    "target": "Mt 19:19"
   },
   {
     "source": "Deut 5:16–20",
@@ -161,7 +161,7 @@
   },
   {
     "source": "Deut 6:4, 5",
-    "target": "30"
+    "target": "Mk 12:30"
   },
   {
     "source": "Deut 6:4, 5",
@@ -173,7 +173,7 @@
   },
   {
     "source": "Deut 6:6–9",
-    "target": "11:18–20"
+    "target": "Deut 11:18–20"
   },
   {
     "source": "Deut 6:8",
@@ -181,7 +181,7 @@
   },
   {
     "source": "Deut 6:8",
-    "target": "16"
+    "target": "Ex 13:16"
   },
   {
     "source": "Deut 6:8",
@@ -213,19 +213,19 @@
   },
   {
     "source": "Deut 7:2–4",
-    "target": "33"
+    "target": "Ex 23:33"
   },
   {
     "source": "Deut 7:2–4",
-    "target": "34:12"
+    "target": "Ex 34:12"
   },
   {
     "source": "Deut 7:2–4",
-    "target": "15"
+    "target": "Ex 34:15"
   },
   {
     "source": "Deut 7:2–4",
-    "target": "16"
+    "target": "Ex 34:16"
   },
   {
     "source": "Deut 7:3",
@@ -233,7 +233,7 @@
   },
   {
     "source": "Deut 7:3",
-    "target": "16"
+    "target": "Ex 34:16"
   },
   {
     "source": "Deut 7:5",
@@ -241,7 +241,7 @@
   },
   {
     "source": "Deut 7:5",
-    "target": "34:13"
+    "target": "Ex 34:13"
   },
   {
     "source": "Deut 7:5",
@@ -257,7 +257,7 @@
   },
   {
     "source": "Deut 7:6",
-    "target": "22:31"
+    "target": "Ex 22:31"
   },
   {
     "source": "Deut 7:6",
@@ -265,19 +265,19 @@
   },
   {
     "source": "Deut 7:6",
-    "target": "45"
+    "target": "Lev 11:45"
   },
   {
     "source": "Deut 7:6",
-    "target": "19:2"
+    "target": "Lev 19:2"
   },
   {
     "source": "Deut 7:6",
-    "target": "20:7"
+    "target": "Lev 20:7"
   },
   {
     "source": "Deut 7:6",
-    "target": "26"
+    "target": "Lev 20:26"
   },
   {
     "source": "Deut 7:6",
@@ -289,15 +289,15 @@
   },
   {
     "source": "Deut 7:6",
-    "target": "21"
+    "target": "Deut 14:21"
   },
   {
     "source": "Deut 7:6",
-    "target": "26:19"
+    "target": "Deut 26:19"
   },
   {
     "source": "Deut 7:6",
-    "target": "28:9"
+    "target": "Deut 28:9"
   },
   {
     "source": "Deut 8:3",
@@ -333,7 +333,7 @@
   },
   {
     "source": "Deut 10:17",
-    "target": "19:16"
+    "target": "Rev 19:16"
   },
   {
     "source": "Deut 10:19",
@@ -341,7 +341,7 @@
   },
   {
     "source": "Deut 10:19",
-    "target": "23:9"
+    "target": "Ex 23:9"
   },
   {
     "source": "Deut 10:19",
@@ -361,7 +361,7 @@
   },
   {
     "source": "Deut 12:16, 23",
-    "target": "19:26"
+    "target": "Lev 19:26"
   },
   {
     "source": "Deut 12:29–32",
@@ -369,7 +369,7 @@
   },
   {
     "source": "Deut 12:29–32",
-    "target": "34:12–14"
+    "target": "Ex 34:12–14"
   },
   {
     "source": "Deut 12:29–32",
@@ -385,7 +385,7 @@
   },
   {
     "source": "Deut 14:2",
-    "target": "6"
+    "target": "Ex 19:6"
   },
   {
     "source": "Deut 14:2",
@@ -405,7 +405,7 @@
   },
   {
     "source": "Deut 14:2",
-    "target": "5:10"
+    "target": "Rev 5:10"
   },
   {
     "source": "Deut 14:3–20",
@@ -417,11 +417,11 @@
   },
   {
     "source": "Deut 14:21",
-    "target": "40"
+    "target": "Lev 11:40"
   },
   {
     "source": "Deut 14:21",
-    "target": "17:15"
+    "target": "Lev 17:15"
   },
   {
     "source": "Deut 14:21",
@@ -429,7 +429,7 @@
   },
   {
     "source": "Deut 14:21",
-    "target": "34:26"
+    "target": "Ex 34:26"
   },
   {
     "source": "Deut 14:22–29",
@@ -453,15 +453,15 @@
   },
   {
     "source": "Deut 15:19–23",
-    "target": "12"
+    "target": "Ex 13:12"
   },
   {
     "source": "Deut 15:19–23",
-    "target": "22:30"
+    "target": "Ex 22:30"
   },
   {
     "source": "Deut 15:19–23",
-    "target": "34:19"
+    "target": "Ex 34:19"
   },
   {
     "source": "Deut 15:19–23",
@@ -469,7 +469,7 @@
   },
   {
     "source": "Deut 15:19–23",
-    "target": "18"
+    "target": "Num 18:18"
   },
   {
     "source": "Deut 16:1–17",
@@ -549,15 +549,15 @@
   },
   {
     "source": "Deut 18:10, 11",
-    "target": "31"
+    "target": "Lev 19:31"
   },
   {
     "source": "Deut 18:10, 11",
-    "target": "20:6"
+    "target": "Lev 20:6"
   },
   {
     "source": "Deut 18:10, 11",
-    "target": "27"
+    "target": "Lev 20:27"
   },
   {
     "source": "Deut 18:13",
@@ -569,11 +569,11 @@
   },
   {
     "source": "Deut 18:15–19",
-    "target": "23"
+    "target": "Acts 3:23"
   },
   {
     "source": "Deut 18:15–19",
-    "target": "7:37"
+    "target": "Acts 7:37"
   },
   {
     "source": "Deut 19:1–13",
@@ -613,7 +613,7 @@
   },
   {
     "source": "Deut 19:16–20",
-    "target": "23:1"
+    "target": "Ex 23:1"
   },
   {
     "source": "Deut 19:16–20",
@@ -645,11 +645,11 @@
   },
   {
     "source": "Deut 21:18–21",
-    "target": "21:15"
+    "target": "Ex 21:15"
   },
   {
     "source": "Deut 21:18–21",
-    "target": "17"
+    "target": "Ex 21:17"
   },
   {
     "source": "Deut 21:18–21",
@@ -661,7 +661,7 @@
   },
   {
     "source": "Deut 21:18–21",
-    "target": "27:16"
+    "target": "Deut 27:16"
   },
   {
     "source": "Deut 21:22",
@@ -669,7 +669,7 @@
   },
   {
     "source": "Deut 21:22",
-    "target": "10:39"
+    "target": "Acts 10:39"
   },
   {
     "source": "Deut 21:23",
@@ -681,7 +681,7 @@
   },
   {
     "source": "Deut 22:1–4",
-    "target": "5"
+    "target": "Ex 23:5"
   },
   {
     "source": "Deut 22:9–11",
@@ -705,7 +705,7 @@
   },
   {
     "source": "Deut 22:22–27",
-    "target": "20:10"
+    "target": "Lev 20:10"
   },
   {
     "source": "Deut 22:22–27",
@@ -721,7 +721,7 @@
   },
   {
     "source": "Deut 22:28, 29",
-    "target": "17"
+    "target": "Ex 22:17"
   },
   {
     "source": "Deut 23:19",
@@ -741,7 +741,7 @@
   },
   {
     "source": "Deut 24:1",
-    "target": "19:7"
+    "target": "Mt 19:7"
   },
   {
     "source": "Deut 24:1",
@@ -753,7 +753,7 @@
   },
   {
     "source": "Deut 24:6, 10–13",
-    "target": "27"
+    "target": "Ex 22:27"
   },
   {
     "source": "Deut 24:7",
@@ -781,7 +781,7 @@
   },
   {
     "source": "Deut 24:17, 18",
-    "target": "23:9"
+    "target": "Ex 23:9"
   },
   {
     "source": "Deut 24:17, 18",
@@ -789,7 +789,7 @@
   },
   {
     "source": "Deut 24:17, 18",
-    "target": "34"
+    "target": "Lev 19:34"
   },
   {
     "source": "Deut 24:19–22",
@@ -797,11 +797,11 @@
   },
   {
     "source": "Deut 24:19–22",
-    "target": "10"
+    "target": "Lev 19:10"
   },
   {
     "source": "Deut 24:19–22",
-    "target": "23:22"
+    "target": "Lev 23:22"
   },
   {
     "source": "Deut 25:4",
@@ -829,7 +829,7 @@
   },
   {
     "source": "Deut 25:13–16",
-    "target": "36"
+    "target": "Lev 19:36"
   },
   {
     "source": "Deut 25:17–19",
@@ -845,11 +845,11 @@
   },
   {
     "source": "Deut 26:1–11",
-    "target": "23:19"
+    "target": "Ex 23:19"
   },
   {
     "source": "Deut 26:1–11",
-    "target": "34:26"
+    "target": "Ex 34:26"
   },
   {
     "source": "Deut 26:1–11",
@@ -857,7 +857,7 @@
   },
   {
     "source": "Deut 26:1–11",
-    "target": "13"
+    "target": "Num 18:13"
   },
   {
     "source": "Deut 27:15",
@@ -865,11 +865,11 @@
   },
   {
     "source": "Deut 27:15",
-    "target": "23"
+    "target": "Ex 20:23"
   },
   {
     "source": "Deut 27:15",
-    "target": "34:17"
+    "target": "Ex 34:17"
   },
   {
     "source": "Deut 27:15",
@@ -877,7 +877,7 @@
   },
   {
     "source": "Deut 27:15",
-    "target": "26:1"
+    "target": "Lev 26:1"
   },
   {
     "source": "Deut 27:15",
@@ -885,19 +885,19 @@
   },
   {
     "source": "Deut 27:15",
-    "target": "23"
+    "target": "Deut 4:23"
   },
   {
     "source": "Deut 27:15",
-    "target": "25"
+    "target": "Deut 4:25"
   },
   {
     "source": "Deut 27:15",
-    "target": "5:8"
+    "target": "Deut 5:8"
   },
   {
     "source": "Deut 27:15",
-    "target": "7:25"
+    "target": "Deut 7:25"
   },
   {
     "source": "Deut 27:16",
@@ -905,11 +905,11 @@
   },
   {
     "source": "Deut 27:16",
-    "target": "21:15"
+    "target": "Ex 21:15"
   },
   {
     "source": "Deut 27:16",
-    "target": "17"
+    "target": "Ex 21:17"
   },
   {
     "source": "Deut 27:16",
@@ -921,7 +921,7 @@
   },
   {
     "source": "Deut 27:16",
-    "target": "21:18–21"
+    "target": "Deut 21:18–21"
   },
   {
     "source": "Deut 27:18",
@@ -933,7 +933,7 @@
   },
   {
     "source": "Deut 27:19",
-    "target": "23:9"
+    "target": "Ex 23:9"
   },
   {
     "source": "Deut 27:19",
@@ -941,7 +941,7 @@
   },
   {
     "source": "Deut 27:19",
-    "target": "34"
+    "target": "Lev 19:34"
   },
   {
     "source": "Deut 27:19",
@@ -949,7 +949,7 @@
   },
   {
     "source": "Deut 27:19",
-    "target": "18"
+    "target": "Deut 24:18"
   },
   {
     "source": "Deut 27:20",
@@ -957,7 +957,7 @@
   },
   {
     "source": "Deut 27:20",
-    "target": "20:11"
+    "target": "Lev 20:11"
   },
   {
     "source": "Deut 27:20",
@@ -973,7 +973,7 @@
   },
   {
     "source": "Deut 27:21",
-    "target": "20:15"
+    "target": "Lev 20:15"
   },
   {
     "source": "Deut 27:22",
@@ -981,7 +981,7 @@
   },
   {
     "source": "Deut 27:22",
-    "target": "20:17"
+    "target": "Lev 20:17"
   },
   {
     "source": "Deut 27:23",
@@ -989,7 +989,7 @@
   },
   {
     "source": "Deut 27:23",
-    "target": "20:14"
+    "target": "Lev 20:14"
   },
   {
     "source": "Deut 27:26",
@@ -1029,7 +1029,7 @@
   },
   {
     "source": "Deut 30:12, 13",
-    "target": "7"
+    "target": "Rom 10:7"
   },
   {
     "source": "Deut 30:14",
@@ -1053,7 +1053,7 @@
   },
   {
     "source": "Deut 32:21",
-    "target": "11:11"
+    "target": "Rom 11:11"
   },
   {
     "source": "Deut 32:21",
@@ -1081,7 +1081,7 @@
   },
   {
     "source": "Deut 32:43",
-    "target": "19:2"
+    "target": "Rev 19:2"
   },
   {
     "source": "Deut 34:10",
